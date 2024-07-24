@@ -1,0 +1,47 @@
+* Staff Handbook
+\newpage
+** School Location
+ 500 W 138th St, New York, NY 10031
+ Phone: (212) 775-9560
+ \newpage
+** Our Mission and Vision
+*** School Mission
+To provide a welcoming, safe, resourceful, and nurturing environment that supports our school community's academic and social-emotional development where children are respected and engaged in challenging curricula that motivates them to realize their po melotential as active, lifelong learners. Through our guiding core values of Justice, Honor, and Self-discipline, we aspire to promote perseverance, love, empathy, and respect for oneself and others.
+*** School Vision
+To ensure all students acquire the essential knowledge and skills they need to become independent thinkers and become active participants and contributors in their roles as students and as members of society.
+\newpage
+** School Staff 2023-24
+*** Teaching Staff
+|1st Grade|Perez |
+|2nd Grade|Burgos|
+*** Support Staff
+| Counselo   |   |
+| ELL        |   |
+| Special Ed |   |
+| Kitchen    |   |
+| Custodian  |   |
+| IA         |   |
+| Other      |   |
+|            |   |
+** Distric 6
+*** Manuel Ramirez
+Superintendent of Schools, Distric 6
+** School Administration
+*** Hilduara Abreu, Principal
+*** Arelis Javier, Assistant Principal
+* Purpose of the Handbook
+This handbook is intended for informational purposes only. It is not intended to change or create any contractual rights in favor of you or the district. The district’s regulations, policies, procedures, work site rules, and benefits are continually evolving; and, therefore, this handbook does not contain all of the information you are required to know during the course of your employment.
+*** Staff Handbook Signature
+This handbook has been devised to provide each staff member with a
+well-defined school-operation and procedure guideline, and to provide
+a quick reference to allow each staff member’s full participation in the
+educational program existing at Sacramento Elementary School.
+Your signature below indicates you have read, understood, and will
+comply with the information and procedures outlined in this handbook.
+#+begin_src
+Employee’s SignatureDate
+#+end_src
+#+begin_src
+Principal’s SignatureDate
+#+end_src
+*This page is due in the office on or before Friday, September 14th, 2018.

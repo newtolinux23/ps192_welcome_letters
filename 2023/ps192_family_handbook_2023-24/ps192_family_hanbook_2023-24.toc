@@ -1,0 +1,60 @@
+\contentsline {section}{\numberline {1}Message from The Principal}{3}{section.1}%
+\contentsline {section}{\numberline {2}About P.S. 192 | Jacob H. Schiff School}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}History}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Our Commitment}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Core Values}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Infinite Potential}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Mission}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Vision}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}School Motto}{5}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}School-Wide Norms of Conduct}{5}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Our Teaching Staff}{5}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Looping Model \& Curricula}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Looping Model}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Curricula}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Response to Intervention (RTI)}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Assessment of Student Work}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Reporting Student Progress}{9}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Homework Policy}{9}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Parental Involvement in Homework}{10}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Standardized Testing}{11}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Key Details for Families}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Meal Application Form}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Attendance and Lateness}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Arrival and Dismissal}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Arrival}{13}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Late Arrivals}{13}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Dismissal}{14}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Early Dismissal}{14}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Transportation}{15}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Wellness and Healthy Eating}{15}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Breakfast/Lunch/Snack}{15}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Recess}{15}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}Dressing for Success}{15}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}Remote and Online Learning}{16}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}Remote and Online Learning}{16}{subsection.5.14}%
+\contentsline {subsection}{\numberline {5.15}Technology}{16}{subsection.5.15}%
+\contentsline {subsection}{\numberline {5.16}Birthdays}{16}{subsection.5.16}%
+\contentsline {subsection}{\numberline {5.17}Lost and Found}{17}{subsection.5.17}%
+\contentsline {subsection}{\numberline {5.18}After School Programs}{17}{subsection.5.18}%
+\contentsline {section}{\numberline {6}Family Engagement}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Classroom Visits}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Report Cards}{18}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Parents Association}{18}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}School Supplies}{19}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}School Leadership Team}{19}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Communication}{19}{section.7}%
+\contentsline {subsection}{\numberline {7.1}School Wide Communication}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Grade Level Communication}{20}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Parent-Teacher Communication}{20}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Parent-Teacher Communication}{20}{subsection.7.4}%
+\contentsline {section}{\numberline {8}DOE Resources, Policies and Procedures}{21}{section.8}%
+\contentsline {subsection}{\numberline {8.1}NYCSA Parent Account}{21}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Illness and Emergencies}{21}{section.9}%
+\contentsline {subsection}{\numberline {9.1}School Nurse}{21}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Illness}{22}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Emergencies}{22}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Participation in Our Community is Encouraged}{23}{subsection.9.4}%
+\contentsline {section}{\numberline {A}Appendix 1 - P.S. 192 Attendance Policy}{24}{appendix.A}%
+\contentsline {section}{\numberline {B}Appendix 2 - Bus and Metro Card- FAQ's}{26}{appendix.B}%
+\contentsline {section}{\numberline {C}Appendix 3 - The Implementation of School-wide Occasions and Established}{27}{appendix.C}%

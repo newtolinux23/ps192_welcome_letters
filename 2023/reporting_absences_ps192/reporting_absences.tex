@@ -1,0 +1,78 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage[colorlinks=true, urlcolor=blue, linkcolor=blue]{hyperref}
+\usepackage{graphicx}
+\usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.7in]{geometry}
+\author{Hilduara Abreu}
+\usepackage{times}
+\pagestyle{fancy}
+\fancyhead[LE,RO]{}
+\fancyhead[RE,LO]{}
+\fancyfoot[CE,CO]{}
+\fancyfoot[LE,RO]{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usepackage{tikzpagenodes}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+
+
+\fancyfoot[R]{\begin{tikzpicture}[remember picture,overlay]
+\draw  let \p1=($(current page footer area.north)-(current page.south)$),
+      \n1={veclen(\x1,\y1)} in
+node [inner sep=0,outer sep=0,above right] 
+      at (current page.south west){\includegraphics[width=\paperwidth]{logo-1}};
+\end{tikzpicture}}
+
+\rhead{\includegraphics[width=1\linewidth]{logo-2}}
+\vspace{1in}
+\pagenumbering{gobble}
+\addtolength{\evensidemargin}{-1in}
+\addtolength{\topmargin}{-0.7in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\vspace*{0.5in}
+Date: September 14, 2023 
+
+\textbf{Subject: Reporting Lateness or Absence Guidelines}
+
+Dear Team,
+
+I trust this message finds you well and that you all enjoyed a rejuvenating summer break.
+
+I would like to take this opportunity to kindly remind everyone about our attendance and punctuality guidelines, which is in place to maintain the smooth functioning of our organization.
+
+Upon your arrival, please make your way to the main office, situated on the first floor, room 124, to sign in. If you happen to arrive late, particularly after 8:00 am, it is crucial that you immediately CLOCK IN and proceed to your designated work post. Should you have any inquiries or require clarification 
+regarding this guidelines, do not hesitate to reach out to me. 
+
+Be mindful that you SIGN YOUR CARD at the commencement of each month.
+
+In the unfortunate event of an absence or tardiness, it is mandatory that you promptly contact Ms. Abreu at $($224$)$ 813-4003, no later than 6:00 am on the day in question. Additionally, please ensure that you report your absence via Sub central, utilizing the provided or contacting the designated number $($718$)$-935-6740. 
+\begin{itemize}
+\item \href{https://subcentral.eschoolsolutions.com/logOnInitAction.do}{SubCentral}
+\item \href {https://video.eschoolsolutions.com/udocs/NYCEmployeesWEBCAST2.0.pdf}{
+Information about The SubCentral System}.
+\end{itemize}
+We emphasize the importance of adhering to these policies to ensure the smooth operation of our team and to avoid any potential union-related concerns.
+
+Thank you for your understanding and cooperation.
+
+Warm regards,
+
+\begin{small}
+\textbf{Dulce Infante}
+
+\textbf{Payroll Secretary}
+
+\textbf{Tel: 212-775-9560 Cell: 347-939-3886 Fax: 212-775-9586}
+
+\textbf{Email: dinfante5@schools.nyc.gov}
+\end{small}
+
+
+\end{document}
