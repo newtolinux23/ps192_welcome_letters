@@ -76,7 +76,7 @@
 }
 #+end_export
 
-* Table of Contents
+* Bell Schedule
   1. [[#introduction][Introduction]]
   2. [[#english-version][English Version]]
   3. [[#versin-en-espaol][Versión en Español]]

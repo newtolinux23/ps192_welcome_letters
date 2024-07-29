@@ -71,7 +71,7 @@
 }
 #+end_export
 \vspace*{-1cm}
-* Table of Contents
+* Use of Electronic Devices School Policy
   1. [[#introduction][Introduction]]
   2. [[#english-version][English Version]]
   3. [[#versin-en-espaol][Versión en Español]]
