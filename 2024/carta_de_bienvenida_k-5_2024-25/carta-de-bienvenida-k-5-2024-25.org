@@ -51,7 +51,7 @@
 #+END_EXPORT
 \vspace*{0.3in}
 
-* Subject: Carta de Bienvenida | School Year: [[https://www.ps192.org][2024-25]]
+Subject: Carta de Bienvenida | Año Escolar: [[https://www.ps192.org][2024-25]]
 
 Queridas familias de P.S. 192, grados K-5,
 

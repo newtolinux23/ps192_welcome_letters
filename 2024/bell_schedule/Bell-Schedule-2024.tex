@@ -1,37 +1,60 @@
-#+TITLE: Test Letter
-#+SUBTITLE: school leters to parents
-#+AUTHOR: Hilduara Abreu
-#+LaTeX_CLASS_OPTIONS: [letterpaper, 12pt]
-#+EXCLUDE_TAGS: noexport
-#+OPTIONS: toc:nil title:nil num:nil
-#+LATEX_HEADER: \usepackage{minted}
-#+LaTeX_HEADER: \usemintedstyle{manni}
-#+LATEX_HEADER:\usepackage{pdfpages}
-#+LATEX_HEADER:\usepackage{fancyhdr}
-#+LATEX_HEADER:\usepackage{graphicx}
-#+LATEX_HEADER:\usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
-#+LATEX_HEADER:\usepackage[T1]{fontenc}
-#+LATEX_HEADER:\usepackage{helvet}
-#+LATEX_HEADER:\pagestyle{fancy}
-#+LATEX_HEADER:\renewcommand{\headrulewidth}{0pt}
-#+LATEX_HEADER:\renewcommand{\footrulewidth}{0pt}
-#+LATEX_HEADER:\setlength{\parindent}{0em}
-#+LATEX_HEADER:\setlength{\parskip}{1em}
-#+LATEX_HEADER:\usepackage{hyperref}
-#+LATEX_HEADER:\usepackage {color}
-#+LATEX_HEADER:\usepackage {tabularray}
-#+LATEX_HEADER: \usepackage{xcolor}
-#+LATEX_HEADER: \hypersetup{
-#+LATEX_HEADER:     colorlinks=true,
-#+LATEX_HEADER:     linkcolor=blue,
-#+LATEX_HEADER:     filecolor=magenta,
-#+LATEX_HEADER:     urlcolor=cyan,
-#+LATEX_HEADER:     citecolor=green,
-#+LATEX_HEADER:     pdfborder={0 0 0}
-#+LATEX_HEADER: }
-#+LATEX_HEADER: \usepackage[most]{tcolorbox}
+% Created 2024-07-29 Mon 16:11
+% Intended LaTeX compiler: pdflatex
+\documentclass[letterpaper, 12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{minted}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{minted}
+\usemintedstyle{manni}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\usepackage{hyperref}
+\usepackage {color}
+\usepackage {tabularray}
+\usepackage{xcolor}
+\hypersetup{
+colorlinks=true,
+linkcolor=blue,
+filecolor=magenta,
+urlcolor=cyan,
+citecolor=green,
+pdfborder={0 0 0}
+}
+\usepackage[most]{tcolorbox}
+\author{Hilduara Abreu}
+\date{\today}
+\title{Test Letter\\\medskip
+\large school leters to parents}
+\hypersetup{
+ pdfauthor={Hilduara Abreu},
+ pdftitle={Test Letter},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 29.4 (Org mode 9.6.15)}, 
+ pdflang={English}}
+\begin{document}
 
-#+BEGIN_EXPORT latex
 \fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
 \fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
 \fancyhead[R]{\thepage}
@@ -39,22 +62,21 @@
 
 \begin{document}
 \vspace*{0.01in}
-
-#+END_EXPORT
 Date: \href{https://www.ps192.org/apps/bbmessages/show_bbm.jsp?REC_ID=139439}{February 16, 2024}
 
 Subject: \textbf{Bell Schedule}
 
 A bell schedule specifies the start time and duration of one or more instructional periods on each day of a day pattern. A consistent daily schedule and step-by-step routines give children a predictable day. A Bell Schedule helps children:
-- Feel in control of their environment
-- Feel safe, secure, and comfortable
-- Know what is happening now and what comes next
-- Know how to do an activity or task
-- Engage in learning
+\begin{itemize}
+\item Feel in control of their environment
+\item Feel safe, secure, and comfortable
+\item Know what is happening now and what comes next
+\item Know how to do an activity or task
+\item Engage in learning
+\end{itemize}
 
 Just like adults, children feel more confident and secure when their daily activities are predictable and familiar.
 
-#+begin_export latex
 \tcbuselibrary{skins}
 \newtcolorbox{bluebox}[1][]{
   colback=blue!5!white,
@@ -86,9 +108,7 @@ Just like adults, children feel more confident and secure when their daily activ
   title=#1,
   boxed title style={colback=red!50!white}
 }
-#+end_export
 
-#+begin_export latex
 \begin{bluebox}[PS 192 | Bell Schedule]
 \begin{table}[H]
 \centering
@@ -111,16 +131,14 @@ Just like adults, children feel more confident and secure when their daily activ
 \end{tblr}
 \end{table}
 \end{bluebox}
-#+end_export
 
 With Justice, Honor, and Self-Discipline,
 
-#+BEGIN_EXPORT latex
 \includegraphics[width=0.2\textwidth]{hil_signature}
-#+END_EXPORT
 
-*Hilduara Abreu, Principal*
+\textbf{Hilduara Abreu, Principal}
 
-*The school of Joyful Learning!*
+\textbf{The school of Joyful Learning!}
 
 \href{www.ps192.org}{www.ps192.org}
+\end{document}

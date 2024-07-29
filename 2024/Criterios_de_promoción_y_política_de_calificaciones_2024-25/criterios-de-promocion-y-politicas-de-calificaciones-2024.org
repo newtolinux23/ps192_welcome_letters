@@ -1,0 +1,237 @@
+#+TITLE: Criterios de Promoción y Política de Calificación 2024
+#+SUBTITLE: Cartas escolares a los padres
+#+AUTHOR: Hilduara Abreu
+#+LaTeX_CLASS_OPTIONS: [letterpaper, 12pt]
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil num:nil
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER:\usepackage{pdfpages}
+#+LATEX_HEADER:\usepackage{fancyhdr}
+#+LATEX_HEADER:\usepackage{graphicx}
+#+LATEX_HEADER:\usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
+#+LATEX_HEADER:\usepackage[T1]{fontenc}
+#+LATEX_HEADER:\usepackage{helvet}
+#+LATEX_HEADER:\pagestyle{fancy}
+#+LATEX_HEADER:\renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER:\renewcommand{\footrulewidth}{0pt}
+#+LATEX_HEADER:\setlength{\parindent}{0em}
+#+LATEX_HEADER:\setlength{\parskip}{1em}
+#+LATEX_HEADER:\usepackage{hyperref}
+#+LATEX_HEADER:\usepackage {color}
+#+LATEX_HEADER:\usepackage {tabularray}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:     colorlinks=true,
+#+LATEX_HEADER:     linkcolor=blue,
+#+LATEX_HEADER:     filecolor=magenta,
+#+LATEX_HEADER:     urlcolor=cyan,
+#+LATEX_HEADER:     citecolor=green,
+#+LATEX_HEADER:     pdfborder={0 0 0}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \usepackage[most]{tcolorbox}
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\vspace*{0.1in}
+
+#+END_EXPORT
+Fecha: [[https://www.ps192.org/apps/bbmessages/show_bbm.jsp?REC_ID=139439][5 de septiembre de 2024]]
+
+#+BEGIN_EXPORT latex
+
+\tcbuselibrary{}
+\newtcolorbox{bluebox}[1][]{
+  colback=blue!5!white,
+  colframe=blue!75!black,
+  fonttitle=\bfseries,
+  coltitle=black,
+  enhanced,
+  attach boxed title to top center={yshift=-2mm},
+  title=#1,
+  boxed title style={colback=blue!50!white}
+}
+\newtcolorbox{greenbox}[1][]{
+  colback=green!5!white,
+  colframe=green!75!black,
+  fonttitle=\bfseries,
+  coltitle=black,
+  enhanced,
+  attach boxed title to top center={yshift=-2mm},
+  title=#1,
+  boxed title style={colback=green!50!white}
+}
+\newtcolorbox{redbox}[1][]{
+  colback=red!5!white,
+  colframe=red!75!black,
+  fonttitle=\bfseries,
+  coltitle=black,
+  enhanced,
+  attach boxed title to top center={yshift=-2mm},
+  title=#1,
+  boxed title style={colback=red!50!white}
+}
+#+END_EXPORT
+
+Asunto: *Criterios de Promoción y Política de Calificación 2024-25*
+
+Estimadas Familias,
+
+El Reglamento del Canciller A-501 implementa una política de promoción en todo el sistema con estándares claramente definidos para la promoción en cada grado. La Política de Criterios de Promoción de P.S. 192 proporciona el proceso y los procedimientos para la implementación de esta política de promoción. Esta política entra en vigor a partir del 5 de septiembre de 2024.
+
+Esta política se promulga en el contexto de los siguientes objetivos establecidos por el Reglamento del Canciller A-501:
+
+Todos los estudiantes de Kindergarten a quinto grado cumplirán o superarán los rigurosos estándares académicos en un currículo básico basado en el rendimiento. En los grados 3 a 5, todos los estudiantes cumplirán o superarán los estándares de promoción mencionados en esta regulación y establecidos en la guía emitida por el DOE, con el fin de ser promovidos al siguiente grado y, en última instancia, estar preparados para la universidad y las carreras.
+
+- Toda la comunidad escolar estará continuamente involucrada en la creación y apoyo de estrategias efectivas para mejorar el rendimiento estudiantil.
+- Se utilizará un sistema integral de evaluación estudiantil, alineado con los estándares de rendimiento establecidos por el Estado y la Ciudad, de manera continua para medir el progreso estudiantil y mejorar la instrucción en el aula.
+#+begin_export latex
+\begin{greenbox}[Sistema de Calificación del Trabajo en Clase]
+\begin{table}[H]
+\centering
+\begin{tblr}{
+  colspec={|X|X|},
+  row{1}={font=\bfseries\color{MacaroniandCheese},c},
+  hlines,
+  vlines,
+  hline{1,6} = {-}{0.08em},
+}
+\textbf{Componente}              & \textbf{Peso} \\
+Evaluaciones Internas            & 50\%          \\
+Trabajo Diario en Clase          & 30\%          \\
+Participación en Clase           & 10\%          \\
+Proyectos                        & 5\%           \\
+Tareas                           & 5\%           \\
+\end{tblr}
+\end{table}
+\end{greenbox}
+#+end_export
+
+#+BEGIN_EXPORT latex
+\pagebreak
+\vspace*{0.2cm}
+#+END_EXPORT
+
+*Promotional Criteria for Grades K-2*
+- 95 por ciento de asistencia
+- Cumplir con los estándares de rendimiento en TODAS las materias básicas: ELA, Matemáticas, Ciencias Sociales y Ciencias. Esto significa obtener un Nivel de Rendimiento 2 (una puntuación numérica del 65 por ciento) en todas las áreas temáticas básicas: Lectura, Escritura, Matemáticas, Ciencias y Estudios Sociales. El promedio de los cuestionarios y exámenes de unidad se utilizará para determinar la calificación general:
+  - Nivel 1: Un promedio agregado de 0-64 puntos
+  - Nivel 2: Un promedio agregado de 65-79 puntos
+  - Nivel 3: Un promedio agregado de 80-89 puntos
+  - Nivel 4: Un promedio agregado de 90-100 puntos
+
+*Lectura: Cumplir con el Nivel de Referencia de Lectura DRA Específico para el Grado*
+- Kindergarten: Nivel de Referencia de Lectura 6 (E)
+- Primer Grado: Nivel de Referencia de Lectura 15-16 (L)
+- Segundo Grado: Nivel de Referencia de Lectura 18 (J)
+
+*Escritura: Obtener una calificación acumulativa de Nivel 2 en el Portafolio de Escritura*
+- Kindergarten: 4 Piezas de Escritura (2 de ficción y 2 de no ficción)
+- Primer grado: 4 Tareas de Rendimiento de Escritura (2 de ficción y 2 de no ficción)
+- Segundo grado: 4 Tareas de Rendimiento de Escritura (2 de ficción y 2 de no ficción)
+
+*Matemáticas: Obtener una calificación acumulativa de Nivel 2. El promedio de los cuestionarios y exámenes de unidad se utilizará para determinar la calificación general.*
+- Nivel 1: Un promedio agregado de 0-64 puntos
+
+#+BEGIN_EXPORT latex
+\pagebreak
+\vspace*{0.2cm}
+#+END_EXPORT
+
+- Nivel 2: Un promedio agregado de 65-79 puntos
+- Nivel 3: Un promedio agregado de 80-89 puntos
+- Nivel 4: Un promedio agregado de 90-100 puntos
+
+*Asignaciones de Proyectos: Obtener una calificación acumulativa de Nivel 2 en cada proyecto.*
+- Kindergarten: 3 Proyectos Individuales (diciembre - Ciencias Sociales; febrero - Matemáticas; abril - Ciencias)
+- Primer grado: 3 Proyectos Individuales (diciembre - Ciencias Sociales; febrero - Matemáticas; abril - Ciencias)
+- Segundo grado: 3 Proyectos Individuales (diciembre - Ciencias Sociales; febrero - Matemáticas; abril - Ciencias)
+
+*Recomendación del Maestro*
+- Análisis holístico y evidencia del trabajo en clase
+
+*Promotional Criteria for Grades 3-5*
+- 95 por ciento de asistencia
+- Cumplir con los estándares de rendimiento en TODAS las materias básicas: ELA, Matemáticas, Ciencias Sociales y Ciencias. Esto significa obtener un Nivel de Rendimiento 2 (una puntuación numérica del 65 por ciento) en todas las áreas temáticas básicas: Lectura, Escritura, Matemáticas, Ciencias y Estudios Sociales. El promedio de los cuestionarios y exámenes de unidad se utilizará para determinar la calificación general:
+  - Nivel 1: Un promedio agregado de 0-64 puntos
+  - Nivel 2: Un promedio agregado de 65-79 puntos
+  - Nivel 3: Un promedio agregado de 80-89 puntos
+  - Nivel 4: Un promedio agregado de 90-100 puntos
+
+*Lectura: Cumplir con el Nivel de Referencia de Lectura DRA Específico para el Grado*
+- Tercer Grado: Nivel de Referencia de Lectura 34-38 (M-N)
+
+#+BEGIN_EXPORT latex
+\pagebreak
+\vspace*{0.2cm}
+#+END_EXPORT
+
+- Cuarto Grado: Nivel de Referencia de Lectura 38-40 (O-P)
+- Quinto Grado: Nivel de Referencia de Lectura 50 (Q-R)
+
+*Escritura: Obtener una calificación acumulativa de Nivel 2 en el Portafolio de Escritura*
+- Tercer Grado: 4 Piezas de Escritura (2 de ficción y 2 de no ficción)
+- Cuarto Grado: 4 Tareas de Rendimiento de Escritura (1 de ficción y 3 de no ficción)
+- Quinto Grado: 4 Tareas de Rendimiento de Escritura (1 de ficción y 3 de no ficción)
+
+*Matemáticas: Obtener una calificación acumulativa de Nivel 2. El promedio de los cuestionarios y exámenes de unidad se utilizará para determinar la calificación general.*
+- Nivel 1: Un promedio agregado de 0-64 puntos
+- Nivel 2: Un promedio agregado de 65-79 puntos
+- Nivel 3: Un promedio agregado de 80-89 puntos
+- Nivel 4: Un promedio agregado de 90-100 puntos
+
+*Asignaciones de Proyectos: Obtener una calificación acumulativa de Nivel 2 en cada proyecto.*
+- Tercer Grado: 3 Proyectos Individuales (diciembre - Ciencias Sociales; febrero - Matemáticas; abril - Ciencias)
+- Cuarto Grado: 3 Proyectos Individuales (diciembre - Ciencias Sociales; febrero - Matemáticas; abril - Ciencias)
+- Quinto Grado: 3 Proyectos Individuales (diciembre - Ciencias Sociales; febrero - Matemáticas; abril - Ciencias)
+
+*Recomendación del Maestro*
+- Análisis holístico y evidencia del trabajo en clase
+#+BEGIN_EXPORT latex
+\pagebreak
+\vspace*{0.2cm}
+#+END_EXPORT
+*Criterios de Promoción para Estudiantes de Inglés como Segundo Idioma (ELL)*
+
+Los estudiantes de inglés como segundo idioma estarán sujetos a los estándares de promoción basados en el número de años en las Escuelas Públicas de la Ciudad de Nueva York:
+- Primer año de ELLs y SIFEs
+  - Cumplir con los puntos de referencia en materias específicas como Matemáticas, Ciencias Sociales y Ciencias en su lengua materna.
+- ELLs de segundo y tercer año
+  - Obtener un nivel 2 en la Evaluación de Matemáticas del Estado de Nueva York y lograr los avances esperados en el NYSESLAT (51 puntos dentro de un nivel de competencia)
+  - Obtener al menos un 65 por ciento (Nivel de Rendimiento 2) en un mínimo de tres materias básicas.
+- Los estudiantes de cuarto año de ELLs estarán sujetos a los mismos estándares que los estudiantes proficientes en inglés.
+
+*Criterios de Promoción para Estudiantes de Educación Especial*
+
+- Los estudiantes de educación especial estarán sujetos a los estándares de promoción establecidos en el IEP del estudiante.
+- Un estudiante cuyo IEP no especifique criterios de promoción modificados estará sujeto a los mismos criterios de promoción estándar que los estudiantes de educación general.
+- Los maestros utilizarán todas las evaluaciones disponibles: pruebas estandarizadas, tareas de rendimiento, evaluaciones continuas del trabajo de los estudiantes, notas de conferencias, observaciones de los maestros y juicio profesional, como un mecanismo para mejorar la instrucción en el aula y proporcionar a los padres información detallada sobre el progreso académico de sus hijos.
+
+Todos los criterios de promoción están sujetos a la aprobación final del Director. Los padres también estarán involucrados en el proceso de toma de decisiones. Los maestros mantendrán colecciones del trabajo de los estudiantes y datos formativos y sumativos que documenten el progreso de los estudiantes hacia el cumplimiento de los estándares de rendimiento y los puntos de referencia. Los maestros se reunirán regularmente con los padres para:
+#+BEGIN_EXPORT latex
+\pagebreak
+\vspace*{0.2cm}
+#+END_EXPORT
+- Nuestro personal empleará varios métodos de comunicación para asegurar que los padres y tutores estén constantemente informados sobre el desarrollo socioemocional y académico de sus hijos.
+  - Conferencias virtuales por Zoom o Google
+  - Conversaciones telefónicas
+  - Comunicación escrita, que incluye ClassDojo, correo electrónico y mensajes de texto, se utilizará para informar a los padres.
+
+En Unidad,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.2\textwidth]{hil_signature}
+#+END_EXPORT
+
+\textbf{Hilduara Abreu}
+
+\textbf{Directora}
+
+\textit{¡La Escuela donde El Aprendizaje es Divertido!}
+
+[[https://www.ps192.org][www.ps192.org]]

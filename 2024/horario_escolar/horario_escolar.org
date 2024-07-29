@@ -1,6 +1,5 @@
-#+TITLE: Test Letter
-#+SUBTITLE: school leters to parents
-#+AUTHOR: Hilduara Abreu
+#+TITLE: Horario Escolar
+#+DATE:
 #+LaTeX_CLASS_OPTIONS: [letterpaper, 12pt]
 #+EXCLUDE_TAGS: noexport
 #+OPTIONS: toc:nil title:nil num:nil
@@ -38,24 +37,27 @@
 \pagenumbering{gobble}
 
 \begin{document}
-\vspace*{0.01in}
+\vspace*{0.1in}
 
 #+END_EXPORT
+
 Date: \href{https://www.ps192.org/apps/bbmessages/show_bbm.jsp?REC_ID=139439}{February 16, 2024}
 
-Subject: \textbf{Bell Schedule}
+Sujeto: Horario Escolar
 
-A bell schedule specifies the start time and duration of one or more instructional periods on each day of a day pattern. A consistent daily schedule and step-by-step routines give children a predictable day. A Bell Schedule helps children:
-- Feel in control of their environment
-- Feel safe, secure, and comfortable
-- Know what is happening now and what comes next
-- Know how to do an activity or task
-- Engage in learning
+Un horario escolar especifica la hora de inicio y la duración de uno o más períodos de instrucción de cada día. Un horario diario consistente y rutinario
+les ofrece a los niños una disciplina de trabajo durante la semana de clase. Un
+horario escolar ayuda a los niños a:
+- Sentirse en control de su entorno.
+- Sentirse seguro, protegido y cómodo.
+- Poder realizar una actividad o tarea.
+- Participar en el aprendizaje.
 
-Just like adults, children feel more confident and secure when their daily activities are predictable and familiar.
+Al igual que los adultos, los niños se sienten más confiados y seguros cuando sus
+actividades diarias son predecibles y familiares.
 
 #+begin_export latex
-\tcbuselibrary{skins}
+\tcbuselibrary{}
 \newtcolorbox{bluebox}[1][]{
   colback=blue!5!white,
   colframe=blue!75!black,
@@ -89,7 +91,7 @@ Just like adults, children feel more confident and secure when their daily activ
 #+end_export
 
 #+begin_export latex
-\begin{bluebox}[PS 192 | Bell Schedule]
+\begin{bluebox}[PS 192 | Horario Escolar]
 \begin{table}[H]
 \centering
 \begin{tblr}{
@@ -99,28 +101,16 @@ Just like adults, children feel more confident and secure when their daily activ
   vlines,
   hline{1,10} = {-}{0.08em},
 }
-\textbf{Period} & \textbf{Start Time} & \textbf{End Time} & \textbf{Length} \\
-1               & 08:00 AM            & 08:45 AM          & 45 minutes      \\
-2               & 08:45 AM            & 09:30 AM          & 45 minutes      \\
-3               & 09:30 AM            & 10:15 AM          & 45 minutes      \\
-4               & 10:15 AM            & 11:05 AM          & 50 minutes      \\
-5               & 11:05 AM            & 11:55 AM          & 50 minutes      \\
-6               & 11:55 AM            & 12:40 PM          & 45 minutes      \\
-7               & 12:40 PM            & 01:30 PM          & 50 minutes      \\
-8               & 01:30 PM            & 02:15 PM          & 45 minutes
+\textbf{Periodo} & \textbf{Hora de Inicio} & \textbf{Hora de Termino} & \textbf{Duración} \\
+1               & 08:00 AM                & 08:45 AM                 & 45 minutos         \\
+2               & 08:45 AM                & 09:30 AM                 & 45 minutos         \\
+3               & 09:30 AM                & 10:15 AM                 & 45 minutos         \\
+4               & 10:15 AM                & 11:05 AM                 & 50 minutos         \\
+5               & 11:05 AM                & 11:55 AM                 & 50 minutos         \\
+6               & 11:55 AM                & 12:40 PM                 & 45 minutos         \\
+7               & 12:40 PM                & 01:30 PM                 & 50 minutos         \\
+8               & 01:30 PM                & 02:15 PM                 & 45 minutos
 \end{tblr}
 \end{table}
 \end{bluebox}
 #+end_export
-
-With Justice, Honor, and Self-Discipline,
-
-#+BEGIN_EXPORT latex
-\includegraphics[width=0.2\textwidth]{hil_signature}
-#+END_EXPORT
-
-*Hilduara Abreu, Principal*
-
-*The school of Joyful Learning!*
-
-\href{www.ps192.org}{www.ps192.org}
