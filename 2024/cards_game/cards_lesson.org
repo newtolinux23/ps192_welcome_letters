@@ -1,0 +1,362 @@
+#+TITLE: What's Our Name?
+#+AUTHOR: September 12, 2023
+#+OPTIONS: toc:t
+#+LATEX_HEADER: \usepackage[hmarginratio=1:1, margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{titlepic}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage[colorlinks=true, urlcolor=blue, linkcolor=red]{hyperref}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage[mmddyyyy]{datetime}
+#+LATEX_HEADER: \setlength{\parskip}{2mm}
+#+LATEX_HEADER: \setlength{\parindent}{0mm}
+#+LATEX_HEADER: \setcounter{secnumdepth}{3}
+#+LATEX_HEADER: \setcounter{tocdepth}{10}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{times}
+
+* What's Our Name?
+  [[./logo.png]]
+
+  In the "Values Sticker Swap" activity, elementary school students each receive a deck
+  of stickers or cards with messages related to core values like leadership, compassion,
+  honor, justice, and self-discipline. The goal is for students to interact with their
+  peers and other students throughout the school to exchange stickers. By the end of the
+  activity, every student will have a deck of stickers, each with different messages,
+  promoting a deeper understanding of these important values and encouraging meaningful
+  discussions with their classmates.
+
+* Activity Description
+  To teach our students the core values of justice, honor, and self-discipline through a cards or sticker exchange activity that promotes sharing and reflection.
+
+** Objective
+   Students will gain a deeper understanding of the school's core values: justice, honor,
+   and self-discipline through discussions and brainstorming sessions. They will learn to
+   connect these values with real life examples and how they shape our school's culture.
+
+** Overview
+   - Materials Needed:
+     - Stickers with various messages related to the core values enough for each
+       student to have a deck.
+     - Markers or colored pencils
+     - Small envelopes or bags (one per student)
+     - Classroom or open space for group activities
+     - Timer or stopwatch
+   - Duration:
+     - Approximately 60-90 minutes
+
+** Introduction (10 minutes)
+   - Gather the students in a circle or around a designated area.
+   - Explain the purpose of the activity: to explore and understand the school's core
+     values through sticker or card exchange.
+   - Discuss briefly what each core value means to ensure everyone understands.
+
+** Preparation (10 minutes)
+   - Distribute a deck of card or stickers with the same messages to each student.
+     Ensure that each deck has the same set of messages.
+   - Instruct the students not to open their decks yet.
+
+** Card or Sticker Exchange Rules (5 minutes)
+   - Explain the rules of the card or sticker exchange.
+   - Each student will start with their own deck of card or stickers (all same
+     message).
+   - They should approach other students and ask to exchange one sticker from their
+     own deck with one from the other student's deck.
+   - Encourage students to talk briefly about the message on the cards or sticker
+     they're exchanging.
+   - Set a timer for the exchange phase.
+
+** Card or Sticker Exchange (15 minutes)
+   - Allow the students to roam and exchange stickers with their classmates and other
+     students around the school.
+   - Monitor the activity to ensure students are engaging respectfully and following
+     the rules.
+
+** Reflection and Discussion (15 minutes)
+   - Bring the students back together and have a group discussion.
+   - Ask them to share:
+     - Which stickers they exchanged and from whom.
+     - What they learned or discussed during the exchanges.
+     - How the stickers they received made them feel or think about the core values.
+
+** Poster Creation (15 minutes)
+   - Divide the students into small groups, with each group focusing on one core
+     value.
+   - Provide index cards and markers to each group.
+   - Instruct each group to discuss and write down what the core value means to them
+     and why it's important based on their card or sticker exchanges.
+   - Encourage them to share personal experiences or stories related to the value.
+
+** Presentation (10 minutes)
+   - Have each group present their posters to the class, incorporating insights
+     gained from the sticker exchanges.
+
+** Closing (5 minutes)
+   - Summarize the activity and its importance in promoting the school's core values.
+   - Encourage students to continue reflecting on and practicing these values through
+     their sticker collections.
+
+  This activity encourages students to interact with others, share ideas about core values, and reflect on the messages they receive through the sticker exchange. It promotes a deeper understanding of the values and how they can be applied in their lives.
+
+* Core Values Messages
+** Kindergarten
+   - Justice:
+     1. Symbol: Scales of Justice
+        "Hi there! Justice means being fair and making things right. Let's be fair and
+        kind to our friends today!"
+     2. Symbol: Superhero Cape
+        "Hi friend! Justice is like being a superhero for fairness. Let's be superheroes
+        of kindness together!"
+     3. Symbol: Puzzle Piece
+        "Hey buddy! Justice is like fitting the puzzle pieces together, making things fair
+        for everyone. Let's play fair!"
+     4. Symbol: Balancing Scale
+        "Hi pal! Justice is like a balancing act, making sure things are just right. Let's
+        be fair and balanced friends!"
+   - Honor:
+     1. Symbol: Medal
+        "Hello! Honor means doing our best and being proud of ourselves. You're amazing,
+        and I'm proud to be your friend!"
+     2. Symbol: Star
+        "Hi there, superstar! Honor means shining bright like a star. Keep being amazing!"
+     3. Symbol: Trophy
+        "Hey champ! Honor is like winning a trophy for being awesome. You're a winner in
+        my book!"
+     4. Symbol: Rainbow
+        "Hello, rainbow of awesomeness! Honor is like all the colors of a rainbow. You
+        make our world beautiful!"
+   - Self-Discipline:
+     1. Symbol: Clock
+        "Hey! Self-discipline means doing the right things at the right time, like
+        listening in class. You're doing great!"
+     2. Symbol: Pencil
+        "Hello! Self-discipline is like writing neatly and staying focused. You're doing a
+        fantastic job!"
+     3. Symbol: Traffic Light
+        "Hello friend! Self-discipline is like stopping at a red light and going on a
+        green one. Keep making good choices!"
+     4. Symbol: Alarm Clock
+        "Hey there! Self-discipline is like waking up on time and being ready for a new
+        day. You're ready for anything!"
+
+** First Grade
+   - Justice:
+     1. Symbol: Balance Scale
+        "Hello, first grader! Justice means being fair and treating everyone kindly. Let's
+        be fair friends together!"
+     2. Symbol: Puzzle Piece
+        "Hello, puzzle solver! Justice is like putting all the pieces in place, making
+        things fair. Let's play fair and square!"
+     3. Symbol: Teamwork Hands
+        "Hello, teammate! Justice is like playing together and sharing. Let's be good
+        teammates and friends!"
+     4. Symbol: Scales of Justice
+        "Hello, little judge! Justice is about making fair decisions. Let's be fair and
+        kind to everyone we meet!"
+     5. Symbol: Friendship Handshake
+        "Hi friend! Justice is like sharing and taking turns. Let's be good buddies and
+        make our playground fair!"
+     6. Symbol: Globe
+        "Hello, global citizen! Justice means being fair to people all around the world.
+        Let's be kind to everyone, no matter where they're from!"
+     7. Symbol: Equality Symbol
+        "Hello, equality champion! Justice is about making sure everyone is treated the
+        same. Let's stand up for fairness!"
+   - Honor:
+     1. Symbol: Gold Star
+        "Hi there, superstar! Honor means doing our best and being proud of our efforts.
+        You're a shining star!"
+     2. Symbol: Trophy
+        "Hey, winner! Honor is like earning a trophy for being amazing. You're a winner in
+        everything you do!"
+     3. Symbol: Rainbow
+        "Hi there, rainbow of greatness! Honor is like all the beautiful colors in a
+        rainbow. You make our world wonderful!"
+     4. Symbol: Medal
+        "Hi there, medalist! Honor is about feeling proud of our accomplishments. You make
+        us proud every day!"
+     5. Symbol: Book
+        "Hello, young scholar! Honor is like reading and learning new things. You're a
+        smart and curious student!"
+     6. Symbol: Art Palette
+        "Hi there, little artist! Honor is like creating beautiful art and expressing
+        yourself. Your creativity shines bright!"
+     7. Symbol: Musical Note
+        "Hi music maestro! Honor is like playing music with all your heart. You're a
+        melody of awesomeness!"
+   - Self-Discipline:
+     1. Symbol: Stopwatch
+        "Hey, little champ! Self-discipline is like sticking to a schedule and finishing
+        our tasks. Keep up the good work!"
+     2. Symbol: Traffic Light
+        "Hi friend! Self-discipline is like following the rules, just like stopping at a
+        red light and going on green. Keep making good choices!"
+     3. Symbol: Clock
+        "Hey, time manager! Self-discipline is like using our time wisely and being
+        prepared. You're on the right track!"
+     4. Symbol: School Bell
+        "Hey, little scholar! Self-discipline is like listening in class and doing your
+        homework. Keep up the great work in school!"
+     5. Symbol: Star Chart
+        "Hey, star student! Self-discipline is like setting goals and reaching for the
+        stars. Keep reaching high!"
+     6. Symbol: Backpack
+        "Hey, young explorer! Self-discipline is like packing your backpack for an
+        adventure. Keep being prepared for anything!"
+     7. Symbol: Rocket Ship
+        "Hey, little astronaut! Self-discipline is like launching a rocket into space.
+        Keep aiming for the stars!"
+
+** Second Grade
+   - Justice:
+     1. Symbol: Balance Scale
+        "Hello, little advocate! Justice means being fair and making things right. Let's
+        be fair superheroes together!"
+     2. Symbol: Puzzle Piece
+        "Hello, puzzle solver! Justice is like putting all the pieces together, making
+        things fair for everyone. Let's be fair playmates!"
+     3. Symbol: Teamwork Hands
+        "Hello, teammate! Justice is like playing together and sharing. Let's be good
+        teammates and friends!"
+     4. Symbol: Scales of Justice
+        "Hello, little judge! Justice is about making fair decisions. Let's be fair and
+        kind to everyone we meet!"
+     5. Symbol: Compass
+        "Hello, young navigator! Justice is like finding your way and helping others find
+        theirs. Let's be good guides to each other!"
+     6. Symbol: Equality Symbol
+        "Hello, equality champion! Justice is about making sure everyone is treated the
+        same. Let's stand up for fairness!"
+     7. Symbol: Compassionate Heart
+        "Hello, friend of kindness! Justice is like having a big heart and caring for
+        others. Let's spread kindness everywhere!"
+     8. Symbol: Helping Hands
+        "Hello, helper! Justice is about lending a hand to those in need. Let's be friends
+        who help each other!"
+   - Honor:
+     1. Symbol: Ribbon
+        "Hi there, champion! Honor is like winning a ribbon for being amazing. You're a
+        true winner in my eyes!"
+     2. Symbol: Trophy
+        "Hi there, trophy holder! Honor is like earning a trophy for your hard work.
+        You're doing fantastic!"
+     3. Symbol: Rainbow
+        "Hi there, rainbow of greatness! Honor is like all the beautiful colors in a
+        rainbow. You make our world wonderful!"
+     4. Symbol: Medal
+        "Hi there, medalist! Honor is about feeling proud of our accomplishments. You make
+        us proud every day!"
+     5. Symbol: Art Palette
+        "Hi there, little artist! Honor is like creating beautiful art and expressing
+        yourself. Your creativity shines brightly!"
+     6. Symbol: Musical Note
+        "Hi music maestro! Honor is like playing music with all your heart. You're a
+        melody of awesomeness!"
+     7. Symbol: Sports Ball
+        "Hi there, sports superstar! Honor is like playing with sportsmanship and
+        teamwork. You're a great teammate!"
+     8. Symbol: Book
+        "Hi bookworm! Honor is like reading and learning new things. You're a smart and
+        curious student!"
+   - Self-Discipline:
+     1. Symbol: Stopwatch
+        "Hey, time manager! Self-discipline is like following a schedule and staying
+        organized. Keep up the great work!"
+     2. Symbol: Traffic Light
+        "Hey friend! Self-discipline is like following the rules, just like stopping at a
+        red light and going on green. Keep making wise choices!"
+     3. Symbol: Clock
+        "Hey, timekeeper! Self-discipline is like using your time wisely and being
+        prepared. Keep it up, little scholar!"
+     4. Symbol: School Bell
+        "Hey, little scholar! Self-discipline is like listening in class and doing your
+        homework. Keep up the great work in school!"
+     5. Symbol: Backpack
+        "Hey, young explorer! Self-discipline is like packing your backpack for an
+        adventure. Keep being prepared for anything!"
+     6. Symbol: Rocket Ship
+        "Hey, little astronaut! Self-discipline is like launching a rocket into space.
+        Keep aiming for the stars!"
+     7. Symbol: Graduation Cap
+        "Hey, future graduate! Self-discipline is like working hard now for a bright
+        future. Keep aiming for success!"
+     8. Symbol: Computer Mouse
+        "Hey tech-savvy friend! Self-discipline is like using technology wisely and
+        responsibly. Keep being a digital role model!"
+
+** Third Grade
+   - Justice:
+     1. Symbol: Scales of Justice
+        "Hello, little judge! Justice is like making fair decisions. Let's be fair and
+        stand up for what's right!"
+     2. Symbol: Compass
+        "Hello, young navigator! Justice is like finding your way and helping others find
+        theirs. Let's navigate through challenges together!"
+     3. Symbol: Equality Symbol
+        "Hello equality advocate! Justice is about fairness for all. Let's stand up for
+        equal rights and make the world better!"
+     4. Symbol: Compassionate Heart
+        "Hello friend of kindness! Justice is like having a compassionate heart. Let's
+        spread kindness and make a positive impact!"
+     5. Symbol: Globe
+        "Hello, global citizen! Justice is about fairness worldwide. Let's learn about
+        other cultures and be friends with people from all over!"
+     6. Symbol: Helping Hands
+        "Hello, helpful friend! Justice is like lending a hand to those in need. Let's be
+        the change-makers and helpers in our community!"
+     7. Symbol: Magnifying Glass
+        "Hello detective of fairness! Justice is like examining things closely to find the
+        truth. Let's be truth-seekers and defenders of justice!"
+     8. Symbol: Globe with Compass
+        "Hello global explorer! Justice is like finding your direction in the world. Let's
+        explore cultures and make the world a better place!"
+   - Honor:
+     1. Symbol: Trophy
+        "Hi there, champion! Honor is like earning a trophy for your hard work and
+        honesty. Keep setting a high bar!"
+     2. Symbol: Artist's Palette
+        "Hi budding artist! Honor is like creating amazing art and expressing yourself.
+        Your creativity knows no bounds!"
+     3. Symbol: Musical Note
+        "Hi musical virtuoso! Honor is like playing music with passion. Your melodies are
+        a gift to the world!"
+     4. Symbol: Sports Ball
+        "Hi sports superstar! Honor is playing with sportsmanship and teamwork. You're a
+        leader on and off the field!"
+     5. Symbol: Chess Piece
+        "Hi strategic thinker! Honor is like playing chess and making smart moves. Keep
+        using your brainpower!"
+     6. Symbol: Science Flask
+        "Hi future scientist! Honor is like exploring and discovering new things. Your
+        curiosity is taking you on amazing journeys!"
+     7. Symbol: Theater Masks
+        "Hi budding actor! Honor is like performing on stage with passion. Your talents
+        shine bright in the spotlight!"
+     8. Symbol: Olympic Torch
+        "Hi future athlete! Honor is like striving for excellence in sports. Keep training
+        hard and reaching for the podium!"
+   - Self-Discipline:
+     1. Symbol: Stopwatch
+        "Hey time manager! Self-discipline is like managing your time wisely and staying
+        organized. You're becoming a pro!"
+     2. Symbol: Backpack
+        "Hey explorer! Self-discipline is like packing your backpack for life's
+        adventures. Stay prepared for all the exciting journeys ahead!"
+     3. Symbol: Rocket Ship
+        "Hey future astronaut! Self-discipline is like launching a rocket to reach your
+        dreams. Aim high and soar!"
+     4. Symbol: Graduation Cap
+        "Hey future graduate! Self-discipline is like working hard now for a bright
+        future. Keep aiming for excellence!"
+     5. Symbol: Puzzle
+        "Hey puzzle master! Self-discipline is like solving tricky puzzles step by step.
+        You're a problem-solving pro!"
+     6. Symbol: Computer Mouse
+        "Hey tech-savvy expert! Self-discipline is like using technology responsibly and
+        creatively. Keep innovating and exploring!"
+     7. Symbol: Paintbrush
+        "Hey young artist! Self-discipline is like creating masterpieces with patience and
+        practice. Your art inspires us!"
+     8. Symbol: Calculator
+        "Hey math whiz! Self-discipline is like solving math problems with focus and
+        determination. You're a math magician!"
