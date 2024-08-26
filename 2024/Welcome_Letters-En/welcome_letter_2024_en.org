@@ -198,12 +198,11 @@ With Justice, Honor, and Self-Discipline,
 :ID: uniform-policy
 :END:
 
-**Uniform Details**
-
-1. *Burgundy Shirt*: All students are required to wear a burgundy-colored shirt as the upper part of their uniform.
-2. *Navy Pants*: Navy blue pants or trousers are to be worn as the lower part of the uniform.
+Dear Parent or Guardian,
 
 The uniform policy will be enforced during school hours and at all school-related events and activities, such as field trips and special assemblies.
+1. *Burgundy Shirt*: All students are required to wear a burgundy-colored shirt as the upper part of their uniform.
+2. *Navy Pants*: Navy blue pants or trousers are to be worn as the lower part of the uniform.
 
 **Benefits of the Uniform Policy**
 
@@ -213,17 +212,26 @@ Uniforms serve as a unifying element within our school community and offer sever
 2. *Enhancing Focus*: Wearing uniforms reduces distractions related to fashion and peer pressure, allowing students to concentrate on their studies and personal growth.
 3. *Fostering School Pride*: A uniform instills a sense of pride and belonging among students, helping them identify with and appreciate their school community.
 4. *Improving Safety*: Uniforms make it easier to identify intruders on school premises, enhancing overall security.
-5. *Preparing for Future Success*: Encouraging a dress code similar to professional attire helps prepare students for future careers where a professional appearance is important.
+5. *Preparing for Future Success*: Encouraging a dress code similar to
+   professional attire helps prepare students for future careers where a
+   professional appearance is important.
 
 **Dress Down Days**
 
-We understand that personal expression is important, and therefore, "Dress Down Days" will be occasionally scheduled throughout the school year, allowing students to express their individuality through clothing choices. We kindly request your cooperation and support in ensuring that your child arrives at school dressed in accordance with our uniform policy. We believe that this will contribute to a more positive and productive learning environment for all students.
+We understand that personal expression is important, and therefore, "Dress Down
+Days" will be occasionally scheduled throughout the school year, allowing
+students to express their individuality through clothing choices. We kindly
+request your cooperation and support in ensuring that your child arrives at
+school dressed in accordance with our uniform policy. We believe that this will
+contribute to a more positive and productive learning environment for all
+students.
+
 #+begin_export latex
 \pagebreak
 #+end_export
 \vspace*{-0.5cm}
 
-**Contact Information**
+*Contact Information*
 
 Should you have any questions or concerns regarding the uniform policy, please feel free to reach out to our Parent Coordinator, Ms. Angela Rijo, via the following channels:
 - Website: [[https://www.ps192.org/angela]]
