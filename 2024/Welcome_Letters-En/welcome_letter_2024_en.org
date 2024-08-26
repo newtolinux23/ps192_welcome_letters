@@ -31,7 +31,7 @@
 #+LATEX_HEADER: }
 #+LATEX_HEADER: \usepackage[most]{tcolorbox}
 
-#+LATEX: \includepdf[pages=1,fitpaper]{/home/rob/.ps192_welcome_letters/2024/Welcome_Letters-En/welcome_letter.pdf}
+#+LATEX: \includepdf[pages=1,fitpaper]{/home/rob/.ps192_welcome_letters/2024/Welcome_Letters-En/pdf.pdf}
 
 #+BEGIN_EXPORT latex
 \fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
@@ -378,7 +378,7 @@ With Justice, Honor, and Self-Discipline,
 Dear Parent or Guardian,
 
 As we approach the commencement of the new school year for 2024-25, commencing
-on September 7th, we extend a warm welcome to all our students. We trust that
+on September 5th, we extend a warm welcome to all our students. We trust that
 you have had a pleasant and healthy summer break. Our devoted and compassionate
 team of educators and school personnel eagerly anticipates your return for what
 promises to be a year filled with excitement, laughter, and learning.

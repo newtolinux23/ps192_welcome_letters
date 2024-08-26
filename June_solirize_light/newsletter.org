@@ -1,0 +1,204 @@
+#+TITLE: P.S. 192 The Parent Newsletter- Edition- June-2024
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage[margin=1.8cm]{geometry}
+#+LATEX_HEADER: \usepackage{fancyheadings}
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amsfonts}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LaTeX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \usepackage{listings}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \usepackage{tabularray}
+#+LATEX_HEADER: \restylefloat{table}
+#+latex_header: \usemintedstyle{dracula}
+#+LATEX_HEADER: \usepackage[table]{xcolor}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage[none]{hyphenat}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{pagecolor}
+#+LATEX_HEADER: \definecolor{solarizedBase03}{RGB}{0, 43, 54}
+#+LATEX_HEADER: \definecolor{solarizedBase02}{RGB}{7, 54, 66}
+#+LATEX_HEADER: \definecolor{solarizedBase01}{RGB}{88, 110, 117}
+#+LATEX_HEADER: \definecolor{solarizedBase00}{RGB}{101, 123, 131}
+#+LATEX_HEADER: \definecolor{solarizedBase0}{RGB}{131, 148, 150}
+#+LATEX_HEADER: \definecolor{solarizedBase1}{RGB}{147, 161, 161}
+#+LATEX_HEADER: \definecolor{solarizedBase2}{RGB}{238, 232, 213}
+#+LATEX_HEADER: \definecolor{solarizedBase3}{RGB}{253, 246, 227}
+#+LATEX_HEADER: \definecolor{solarizedYellow}{RGB}{181, 137, 0}
+#+LATEX_HEADER: \definecolor{solarizedOrange}{RGB}{203, 75, 22}
+#+LATEX_HEADER: \definecolor{solarizedRed}{RGB}{220, 50, 47}
+#+LATEX_HEADER: \definecolor{solarizedMagenta}{RGB}{211, 54, 130}
+#+LATEX_HEADER: \definecolor{solarizedViolet}{RGB}{108, 113, 196}
+#+LATEX_HEADER: \definecolor{solarizedBlue}{RGB}{38, 139, 210}
+#+LATEX_HEADER: \definecolor{solarizedCyan}{RGB}{42, 161, 152}
+#+LATEX_HEADER: \definecolor{solarizedGreen}{RGB}{133, 153, 0}
+#+LATEX_HEADER: \pagecolor{solarizedBase3}
+#+LATEX_HEADER: \color{solarizedBase00}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:   colorlinks=true,
+#+LATEX_HEADER:   linkcolor=solarizedViolet,
+#+LATEX_HEADER:   filecolor=solarizedMagenta,
+#+LATEX_HEADER:   urlcolor=solarizedBlue,
+#+LATEX_HEADER:   citecolor=solarizedGreen,
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \titleformat{\section}
+#+LATEX_HEADER: {\color{solarizedBlue}\normalfont\Large\bfseries}
+#+LATEX_HEADER: {\color{solarizedBlue}\thesection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsection}
+#+LATEX_HEADER: {\color{solarizedGreen}\normalfont\large\bfseries}
+#+LATEX_HEADER: {\color{solarizedGreen}\thesubsection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsubsection}
+#+LATEX_HEADER: {\color{solarizedYellow}\normalfont\normalsize\bfseries}
+#+LATEX_HEADER: {\color{solarizedYellow}\thesubsubsection}{1em}{}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \definecolor{draculaBackground}{HTML}{282a36}
+#+LATEX_HEADER: \definecolor{draculaForeground}{HTML}{f8f8f2}
+#+LATEX_HEADER: \definecolor{draculaSelection}{HTML}{44475a}
+#+LATEX_HEADER: \definecolor{draculaComment}{HTML}{6272a4}
+#+LATEX_HEADER: \definecolor{draculaCyan}{HTML}{8be9fd}
+#+LATEX_HEADER: \definecolor{draculaGreen}{HTML}{50fa7b}
+#+LATEX_HEADER: \definecolor{draculaOrange}{HTML}{ffb86c}
+#+LATEX_HEADER: \definecolor{draculaPink}{HTML}{ff79c6}
+#+LATEX_HEADER: \definecolor{draculaPurple}{HTML}{bd93f9}
+#+LATEX_HEADER: \definecolor{draculaRed}{HTML}{ff5555}
+#+LATEX_HEADER: \definecolor{draculaYellow}{HTML}{f1fa8c}
+
+
+#+STARTUP: shrink
+#+STARTUP: noindent
+
+#+BEGIN_EXPORT latex
+\includepdf[pages=1,fitpaper]{pdf.pdf}
+
+\pagenumbering{\fancyhf{}}
+\pagestyle{headings}
+\pagenumbering{arabic}
+
+\fancyhead[R]{\thepage}
+
+\fancyfoot[C]{Visit www.ps192.org | The School of Joyful Learning!}
+\pagestyle{fancy}
+\renewcommand{\footrulewidth}{1px}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+#+END_EXPORT
+
+@@latex:\clearpage@@
+#+BEGIN_EXPORT latex
+\clearpage \tableofcontents \clearpage
+#+END_EXPORT
+
+
+* Principal Message
+
+*Subject: Welcome to June, 2024 at PS 192: The School of Joyful Learning!*
+
+Greetings Parents and Guardians,
+
+As we approach the end of this school year, I am filled with immense pride for the achievements we have made together at P.S. 192 and am equally excited about the plans we have for the upcoming school year.
+
+I extend my heartfelt gratitude to all parents who have contributed to our school events throughout the year. Your dedication in organizing and participating in our activities and your steadfast attendance at our parent workshops have been invaluable. Your unwavering support has made a significant impact on our school community.
+
+Please note that Wednesday, June 26, 2024, will be our Graduation Day and the final day of school. On this day, your children will receive their report cards.
+
+In closing, I would like to wish our fifth-grade students the very best as they transition to Middle School. I will miss each of you and your families and hope you carry with you cherished memories of your time at P.S. 192.
+
+I wish everyone a delightful and restful summer and look forward to collaborating with many of you in the upcoming year.
+
+Warm regards,
+
+#+attr_latex: :width 100px :center nil
+[[/var/home/rob/Documents/latex_documents/Newsletters/June_solirize_light/hil_signature.png]]
+
+*Hilduara Abreu*
+
+Principal
+@@latex:\clearpage@@
+
+* Inspiration Corner
+** P.S. 192 Parents
+You always need to remember to bring your photo I.D when you come to your child’s school.
+
+#+CAPTION: Infinite Potential is the guiding star of our school, illuminating a path where students are emboldened to dream without boundaries and pursue a voyage of continuous learning and self-improvement. It is here, within the nurturing halls of PS192, that we ignite the spark of curiosity and fan the flames of possibility, forging a future replete with endless opportunities for each and every child.
+#+ATTR_LATEX: :width 1\textwidth
+[[/var/home/rob/Documents/latex_documents/Newsletters/June_solirize_light/lion_banner.png]]
+** P.S. 192 Quote
+"True happiness lies not in the destination, but in the journey we take with our children, nurturing their growth, celebrating their successes, and guiding them with love and patience. As parents and guardians, your support and dedication light up the path to a brighter future for our students at P.S. 192."
+** Graduation
+June 26, 2024
+- *3K & PRE-K*- 8:30 AM
+- *Kindergarten*- 10:00 AM
+- *5th Grade*- 12:30 PM
+** Last Day of School
+June 26th, 2024
+
+*Have a wonderful Summer!*
+@@latex:\clearpage@@
+* Special Days and News of the Month
+#+BEGIN_CENTER
+\definecolor{JordyBlue}{rgb}{0.6,0.756,0.945}
+\definecolor{Carnation}{rgb}{0.964,0.38,0.317}
+\begin{table}[h!]
+\centering
+\caption{For comprehensive and up-to-date information regarding P.S. 192, we invite you to visit our official website at www.ps192.org. The site is regularly updated with the latest school events and pertinent details. Additionally, our news (www.ps192.org/apps/news/) section offers exclusive insights into the happenings at our school. We encourage you to explore the wealth of resources available there.}
+\begin{tblr}{
+  width = \linewidth,
+  colspec = {Q[133]Q[810]},
+  row{odd} = {Carnation},
+  row{1} = {JordyBlue},
+  hlines,
+  vlines,
+}
+\textbf{Date}       & \textbf{Event}                                                                    \\
+\textbf{06/06/2024} & \textbf{Chancellor’s Conference Day- Staff Development (school Closed)}           \\
+\textbf{06/07/2024} & \textbf{Clerical Day- Staff Development (School Closed) AM}                       \\
+\textbf{06/07/2024} & \textbf{SLT- 2:30 - 5:30 PM}                                                      \\
+\textbf{06/12/2024} & \textbf{Senior Trip}                                                              \\
+\textbf{06/14/2024} & \textbf{Travel The World Day}                                                     \\
+\textbf{06/17/2024} & \textbf{Eid al-Adha- No School}                                                   \\
+\textbf{06/18/2024} & \textbf{School Resumes}                                                           \\
+\textbf{06/18/2024} & \textbf{P.A. Election 8:00 AM}                                                    \\
+\textbf{06/18/2024} & \textbf{Coffee with The Principal- 8:15 AM}                                       \\
+\textbf{06/19/2024} & \textbf{Juneteenth Day- schools closed}                                           \\
+\textbf{06/21/2024} & \textbf{Field Day}                                                                \\
+\textbf{06/24/2024} & \textbf{5th Grade Prom- 11:00 AM – 2:00 P}                                        \\
+\textbf{06/25/2024} & \textbf{Awards Ceremony- Grades 3K-5th 1:00 – 2:00 PM}                            \\
+\textbf{06/26/2024} & \textbf{Graduation 3K - PRE-K 8:30 AM, Kindergarten 10:00 AM, 5th Grade 12:30 PM} \\
+\textbf{06/26/2024} & \textbf{Last Day For All Students}
+\end{tblr}
+\end{table}
+#+END_CENTER
+
+* What's Next
+**  Looking Forward to Next Month
+- ~Independence Day~ – July 4, 2024 (school is closed)
+- ~First day of Summer School~ – July 2nd, 2024.
+- ~Last day of Summer School~ – August 16th, 2024.
+
+\textbf{\Larger Have a wonderful vacation! We will see you on September 5, 2024.}
+#+CAPTION: School Motto "Good, better, best. Never let it rest until your good is better, and your better is best." St. Jerome
+#+ATTR_LATEX: :width 1\textwidth
+[[/var/home/rob/Documents/latex_documents/Newsletters/June_solirize_light/school_banner.png]]
+* Reminder
+1. School Uniform Reminder: Please ensure your child comes to school dressed in their uniform daily, as it is an important part of our school's tradition and identity.
+2. ID. To ensure the safety of children, and as per DOE regulation, you always need to bring your photo I.D when you come to your child’s school.
+3. We highly recommend taking the time each week to touch base with your child's teachers. Whether through email, in-person meetings, ClassDojo, or virtual conferences, staying connected can greatly enhance your child's educational experience.
+4. Library Mornings Program- We would like to inform all Parents and Guardians that the library is open for your use with your children from Monday to Friday, 7:00 to 7:50 am. This is a wonderful opportunity for you to borrow books, work on computers, and practice reading.
+5. Lost Items - Please note that if your child misplaces any belongings, you are encouraged to visit the lost and found area. Items that remain unclaimed by the end of each month will be thoughtfully donated to the Salvation Army.
+

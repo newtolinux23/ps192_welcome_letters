@@ -1,0 +1,50 @@
+#+TITLE: Troubleshooting Doom Emacs Configuration
+#+AUTHOR: Robert Alicea
+#+DATE: <2023-09-15>
+
+* Issue Overview
+During the configuration of Doom Emacs, an error was encountered stating that the package =org-bullets= could not be found. This error prevented the successful loading of the Emacs configuration.
+
+* Error Message
+The specific error message received was:
+#+begin_quote
+(file-missing Cannot open load file No such file or directory org-bullets)
+#+end_quote
+
+* Troubleshooting Steps
+To resolve the issue, the following steps were taken:
+
+1. **Ensure the package is listed in =packages.el=**
+   Verify that =org-bullets= is included in the =packages.el= file.
+   - Open =packages.el= located in =~/.doom.d/= or =/home/rob/.dotfiles/.config/doom/=.
+   - Add the following line if it's not already present:
+     #+begin_src elisp
+       (package! org-bullets)
+     #+end_src
+
+2. **Sync Doom Emacs**
+   After confirming the package is listed, run the sync command to install =org-bullets=.
+   - Execute the following command in the terminal:
+     #+begin_src bash
+       doom sync
+     #+end_src
+
+3. **Restart Emacs**
+   Once the sync is complete, restart Emacs to ensure the package is loaded properly.
+
+4. **Verify Configuration**
+   Ensure that =org-bullets= is correctly referenced in =config.el=.
+   - The relevant configuration should look like this:
+     #+begin_src elisp
+       (use-package! org-bullets
+         :hook (org-mode . org-bullets-mode)
+         :config
+         (setq org-bullets-bullet-list '("◉" "○" "●" "◆" "▶")))
+     #+end_src
+
+* Outcome
+After completing these steps, the error was resolved, and Doom Emacs loaded successfully with all configurations applied.
+
+* Additional Notes
+- The =yasnippet= message about no snippets found is informational and can be ignored if snippets are not needed.
+- The =ispell= process indicates that spell checking is set up and functioning correctly.
