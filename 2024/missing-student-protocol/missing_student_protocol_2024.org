@@ -1,0 +1,89 @@
+#+TITLE: PS192 | Missing Student Protocol
+#+SUBTITLE: English Version
+#+AUTHOR: Hilduara Abreu
+#+LaTeX_CLASS_OPTIONS: [letterpaper, 12pt]
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil num:nil
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{helvet}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER: \renewcommand{\footrulewidth}{0pt}
+#+LATEX_HEADER: \setlength{\parindent}{0em}
+#+LATEX_HEADER: \setlength{\parskip}{1em}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \usepackage {color}
+#+LATEX_HEADER: \usepackage {tabularray}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:     colorlinks=true,
+#+LATEX_HEADER:     linkcolor=blue,
+#+LATEX_HEADER:     filecolor=magenta,
+#+LATEX_HEADER:     urlcolor=cyan,
+#+LATEX_HEADER:     citecolor=green,
+#+LATEX_HEADER:     pdfborder={0 0 0}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \usepackage[most]{tcolorbox}
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\newpage
+#+END_EXPORT
+\vspace*{-0.3cm}
+
+*Re: Implementation of the Missing Student Protocol, effective as of September 5th, 2024*
+
+This Missing Student Protocol is established to ensure the safety and well-being of all students at PS192. It outlines the steps to be taken immediately if a student is identified as missing, ensuring a swift and efficient response by all staff members. The protocol aligns with NYCDOE and UFT guidelines and is designed to provide clarity and consistency in handling such critical situations.
+
+*Reporting a Missing Child*
+
+- **Immediate Reporting**: If a staff member identifies a missing child or notices a child who eludes adult supervision, they must immediately use their cell phone to text the administration and the parent coordinator while they are seeking or following the child.
+- **Building Response Team (BRT) Activation**: If the child is confirmed missing, the Principal will activate the Building Response Team (BRT) to assist in locating the student and preventing them from leaving the premises.
+
+*Search Efforts*
+
+- **Comprehensive Search**: The BRT and all available school staff will conduct a thorough search of both indoor and outdoor areas throughout the entire school premises.
+- **Intercom Announcement**: An announcement will be made via the school-wide intercom by the secretary, using the code phrase: "The lion is out of the den. Call me if you see him or find him." This alert notifies staff of the missing child and helps gather information on the student's last known location.
+- **Law Enforcement Notification**: If the child is not found within a specific timeframe, local law enforcement will be notified. The Principal and/or the BRT chairperson will be responsible for contacting 911 and informing the Borough Safety Director and the D6 Superintendent.
+- **Student Information Profile**: Upon the arrival of law enforcement, the Principal and/or BRT chairperson will provide them with a student information profile.
+
+*Communication, Documentation, and Feedback*
+
+- **Parent/Guardian Notification**: The administration will contact the parent or guardian to inform them of the situation. \newpage \vspace*{-0.5cm}
+- **Incident Documentation**: Staff members responsible for the child's supervision must complete an OORS report form detailing the incident before leaving the premises if the incident occurred before 1 p.m. The form will be submitted to Assistant Principal, Dr. Milagros Dueño.
+- **Incident Review**: The Principal will review the incident form with the UFT Chapter Leader and the BRT chairperson, gather feedback and suggestions, and may convene a meeting with the involved staff members for further review and discussion.
+
+*Preventive Measures*
+
+- **Hallway and Bathroom Monitoring**:
+  - *Second Floor*: Ms. Del Orbe, Ms. Cuesta, Mr. Abreu, and Mr. Suero oversee the monitoring of the second-floor hallway and bathrooms.
+  - *First Floor*: Ms. Clemons, Ms. Rijo, and the designee assigned by the principal of MS 209 supervise the first-floor hallway and bathroom facilities.
+- **Exit Security**: Ms. Clemons, our safety agent, will consistently inspect and secure all exits to prevent unauthorized access.
+- **Student Safety Education**: During the SEL (Social-Emotional Learning) block, teachers will provide students with education on safety procedures and guidance on whom to contact if they feel lost or unsafe. This will occur once a month.
+
+Your cooperation and strict adherence to this protocol and the preventive measures outlined are crucial to ensuring the safety and security of our students. By working together and maintaining vigilance, we can significantly contribute to the overall safety of our school environment.
+
+Thank you for your attention and commitment to our students' safety.
+
+With Justice, Honor, and Self-Discipline,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.16\textwidth]{hil_signature}
+#+END_EXPORT
+
+*Hilduara Abreu, Principal*
+
+*The school of Joyful Learning!*
+
+\href{www.ps192.org}{www.ps192.org}

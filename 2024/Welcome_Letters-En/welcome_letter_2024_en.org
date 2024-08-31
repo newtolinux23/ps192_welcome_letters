@@ -115,6 +115,7 @@ Welcome to PS 192! We are committed to providing a safe and nurturing environmen
 At PS 192, we believe in the power of education to transform lives. Our dedicated staff works tirelessly to offer the highest quality education, empowering our students to become the next generation of thinkers and leaders who will make a positive impact on our city and beyond. Your partnership and support are crucial in this journey, and we thank you for being an integral part of our community.
 
 Together, we can ensure that PS 192 continues to be a place where every child feels valued and inspired to reach their full potential. We look forward to a successful and enriching school year with your continued involvement and cooperation.
+
 With Justice, Honor, and Self-Discipline,
 
 #+BEGIN_EXPORT latex

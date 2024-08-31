@@ -1,0 +1,121 @@
+#+TITLE: PS192 Handbook
+#+AUTHOR: Hilduara Abreu
+#+OPTIONS: toc:nil
+#+SETUPFILE: org-setup.org
+#+PROPERTY: header-args :eval never-export
+
+* Cover Page
+[[file:handbook_front.pdf][PS192 Handbook Cover]]
+
+* Message From Principal Abreu
+Dear Staff,
+
+Welcome to the 2023-2024 edition of the PS 192: Jacob H. Schiff Faculty and Staff Handbook. It is the responsibility of each staff member to be fully acquainted with the information contained herein. This handbook is a living document and it will be updated, as necessary, throughout the year. It is meant to provide information and procedures that are important for the smooth operation of our PS 360 community. This handbook is a guide for ALL STAFF MEMBERS about the daily operation of our school. Please familiarize yourselves with your individual and school-wide responsibilities. Please do not hesitate to ask questions or get further clarification regarding any policy or procedure.
+
+I encourage you to begin by thoroughly acquainting or re-acquainting yourself with our school’s philosophy, mission, objectives and core principles, as outlined in the School Overview. Key elements of this vision are elaborated upon throughout the handbook, along with important information about structures and policies that support our school mission and ensure the safety and success of all members of our school community.
+
+During the upcoming school year, we will continue to strengthen and deepen our work in relation to NYCDOE and District 6 priorities, as reflected in our School Problem of Practice, priorities, and CEP Goals. These areas will be central to our work as a Professional Learning Community and will be further addressed in Professional Learning sessions and Professional Planning Teams, as well as in administrative memos and guidelines, many of which can be accessed in Appendix B of this handbook.
+
+I look forward to our continued collaboration in the year ahead.
+
+Respectfully yours,
+
+Hilduara Abreu
+
+Principal
+
+** The School of Joyful Learning!
+[[https://www.ps192.org][www.ps192.org]]
+
+[[file:hil_signature.png]]
+
+* Acknowledgment of Receipt and Review
+Date: September 2023
+
+** Subject: Faculty and Staff Handbook Acknowledgment of Receipt and Review
+
+I, ______________ (staff member name), hereby acknowledge that I have read and understand the contents of the Faculty and Staff Handbook, including Appendix A: Chancellor’s Regulations, as well as the PS 192 Family Handbook and Citywide Behavioral Expectations to Support Student Learning. I understand that I am also responsible for following the directives included in Appendix B: Administrative Memos, as well as subsequent administrative directives that may be issued during the year. I will adhere to the policies and procedures set forth in the PS 192 Faculty and Staff Handbooks, the Chancellor’s Regulations, and in all Administrative Memos.
+
+- [ ] I have reviewed the The P.S. 192 Staff Handbook
+
+#+BEGIN_CENTER
+|---------------------+------|
+| Teacher's Signature | Date |
+|---------------------+------|
+| Assistant Principal | Date |
+|---------------------+------|
+#+END_CENTER
+
+[[file:himher1.png]]
+
+* School Overview
+PS 192 Jacob H. Schiff (06M192) is a District 6 public school that serves children from diverse cultural, linguistic, and socio-economic backgrounds. The success of our students and community relies on our continuous elementary learning experience, dedication, knowledge, teamwork, and collaboration. Our school provides a well-balanced looping education that will be a bridge to opportunity and success. To meet our students’ needs, our programs this year will focus on a standards-based rigorous curriculum that motivates and inspires students to make connections between our school and their future. We focus on students’ strengths and build self-esteem through authentic and rigorous achievement. We recognize that students can and will value their educational experience because they see, feel, and understand the connection to their personal lives. Preparing our students for College and Career Readiness continues to be at the foundation of all our work.
+
+[[file:logohim.jpg]]
+
+** Core Values
+At P.S. 192, we uphold a set of core values that serve as the foundation of our educational community. These values, rooted in justice, honor, and self-discipline principles, guide our actions, decisions, and interactions, creating a culture of integrity and excellence.
+
+- *Justice*: We are committed to fairness and equality for all members of our school community. We believe in the equitable treatment of every individual, irrespective of their background, ensuring that each student has the opportunity to thrive academically and personally. Our commitment to justice fosters an inclusive and supportive environment where every voice is heard, valued, and respected.
+- *Honor*: Integrity is the cornerstone of our educational philosophy. We encourage our students to act with honesty and integrity in all aspects of their lives. Upholding honor means taking responsibility for one's actions, demonstrating ethical behavior, and consistently adhering to a code of moral values. We believe that integrity is the pathway to personal growth and societal betterment.
+- *Self-Discipline*: We recognize the importance of self-control and self-mastery in achieving success. At P.S. 192, we instill in our students the value of self-discipline as an essential skill for achieving their goals and aspirations. Through self-discipline, our students learn to set priorities, manage their time effectively, and overcome challenges, ultimately becoming responsible and accountable individuals.
+
+These core values of justice, honor, and self-discipline guide us in pursuing academic excellence and character development. By embracing these principles, we empower our students to become responsible citizens, compassionate leaders, and lifelong learners who contribute positively to our global community. At P.S. 192, we are dedicated to nurturing academic achievements and the values and qualities that will shape our students into ethical, compassionate, and successful individuals.
+
+** Vision
+To ensure all students acquire the essential knowledge and skills they need to become independent thinkers, active participants, and contributors in their roles as students and as members of society.
+
+** Mission
+To provide a welcoming, safe, resourceful, and nurturing environment that supports our school community's academic and social-emotional development where children are respected and engaged in challenging curricula that motivate them to realize their potential as active, lifelong learners. Through our guiding core values of Justice, Honor, and Self-discipline, we aspire to promote perseverance, love, empathy, and respect for oneself and others.
+
+** School Motto
+"Good, better, best. Never let it rest until your good is better, and your better is best."  -St. Jerome
+
+* Educational Philosophy
+We believe that relationships, with oneself and with others, form the basis of learning and teaching. These relationships extend beyond the classroom to include children’s families and the multiple communities of which they are a part. By building meaningful relationships among school, home and the wider community, we seek to instill in each child an integral sense of continuity and connection that will support his or her growth in its many dimensions.
+
+Learning is a natural human process inherent to all children, transcending cultural, socio-economic, and learning differences. Children’s innate interests and capabilities are essential to the learning process. A stimulating and engaging environment can awaken a sense of wonder and intellectual curiosity that must be carefully guided and fed. Students learn best when teachers draw upon their existing understandings and help them build new understandings based on increasingly complex knowledge. To this end, our school integrates child-centered pedagogies with rigorous, content-rich instruction in response to ongoing assessment of individual student needs.
+
+** Core Principles
+The vision for Jacob H. Schiff is guided by the following core principles:
+
+- An effective learning environment places meaningful relationships—among teachers, students, families, and other community members—at its center.
+- Small learning communities, in which adults and children know each other well, provide rich opportunities for personal, social, and intellectual development.
+- Families play an essential role in their children’s education and should therefore be invited to participate in multiple aspects of school life.
+- A community-based school must be accessible, accountable, and responsive to all families, regardless of their linguistic, cultural, socioeconomic, or educational backgrounds.
+- Children benefit from a coherent academic program that encompasses Pre-Kindergarten to Grade 5.
+- All children have gifts and talents, which can be effectively fostered in heterogeneous classrooms in which adults hold high expectations for every student.
+- Children learn through active engagement and exploration, and by constructing understandings based on their own experiences and observations.
+- A language-rich environment, accessible to children of diverse backgrounds, provides the foundation for achievement in all academic disciplines and areas of life.
+- A well-rounded education provides academic rigor as well as opportunities for self-expression, artistic creation, and personal reflection.
+- Engagement in multicultural, multilingual learning environments will prepare children to participate fully in our diverse society.
+- Education should include not only the mastery of information and skills, but also the development of critical thinking abilities and ethical awareness.
+
+[[file:positivity.pdf]]
+
+** Commitment to Achievement
+In our commitment to delivering a rigorous, inclusive, and family-centered educational experience for the children of our community, PS 192 will:
+
+- Uphold our identity as a dedicated learning community, earnestly striving to intimately understand each student and their family.
+- Cultivate an intellectually stimulating and captivating learning environment that prioritizes relationships as the primary conduit of both learning and teaching.
+- Assure that our students consistently attain and surpass academic benchmarks across all subject areas.
+- Incorporate family involvement and feedback at various levels of school administration.
+- Instill in every student elevated expectations for their own capabilities, reinforced by unwavering belief in their demonstrated aptitudes.
+- Conduct methodical evaluations of student learning assessments with the aim of scrutinizing data for patterns of misunderstandings and devising solutions to enhance student achievement.
+
+** Commitment to Parental Engagement
+Research consistently confirms that meaningful family engagement plays a pivotal role in the academic success of children. In light of this, Jacob H. Schiff holds family engagement and authentic home-school partnerships at the core of our educational philosophy.
+
+[[file:positivity.pdf]]
+
+** Systems for Student Success
+To foster excellence and fulfillment in our student body, PS 192 pledges to:
+
+- Clearly communicate grade-level expectations to students and their families through comprehensive monthly reports.
+- Maintain a positive and robust academic environment, characterized by collective commitment to high standards for all staff and students.
+- Implement frequent and precise assessments of student progress, coupled with prompt feedback.
+- Encourage continual professional development through collaborative data meetings and workshops, empowering teachers to tailor instruction to meet the evolving needs of each student.
+- Utilize student work portfolios, assessment records, and parent/student surveys to monitor and advance academic growth.
+- Reinforce a data-driven approach to enhance student performance, aligning instructional practices with the demands of the Next Generation Learning Standards.
+- Uphold the highest standards of instruction and professional accountability through constant evaluation and reflection on pedagogical practices.
+- Provide the necessary interventions and support to ensure all students can meet and exceed the academic challenges presented to them.
