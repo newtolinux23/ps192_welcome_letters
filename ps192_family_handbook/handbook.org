@@ -1,0 +1,358 @@
+#+TITLE: P.S. 192 Family Handbook 2023-24
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil
+#+SETUPFILE: /var/home/rob/Documents/org-mode/org_article_file.org
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage[margin=1.8cm]{geometry}
+#+LATEX_HEADER: \usepackage{fancyheadings}
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amsfonts}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LaTeX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \usepackage{listings}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{wrapfig}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \usepackage{tabularray}
+#+LATEX_HEADER: \restylefloat{table}
+#+latex_header: \usemintedstyle{dracula}
+#+LATEX_HEADER: \usepackage[table]{xcolor}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage[none]{hyphenat}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{pagecolor}
+#+LATEX_HEADER: \definecolor{solarizedBase03}{RGB}{0, 43, 54}
+#+LATEX_HEADER: \definecolor{solarizedBase02}{RGB}{7, 54, 66}
+#+LATEX_HEADER: \definecolor{solarizedBase01}{RGB}{88, 110, 117}
+#+LATEX_HEADER: \definecolor{solarizedBase00}{RGB}{101, 123, 131}
+#+LATEX_HEADER: \definecolor{solarizedBase0}{RGB}{131, 148, 150}
+#+LATEX_HEADER: \definecolor{solarizedBase1}{RGB}{147, 161, 161}
+#+LATEX_HEADER: \definecolor{solarizedBase2}{RGB}{238, 232, 213}
+#+LATEX_HEADER: \definecolor{solarizedBase3}{RGB}{253, 246, 227}
+#+LATEX_HEADER: \definecolor{solarizedYellow}{RGB}{181, 137, 0}
+#+LATEX_HEADER: \definecolor{solarizedOrange}{RGB}{203, 75, 22}
+#+LATEX_HEADER: \definecolor{solarizedRed}{RGB}{220, 50, 47}
+#+LATEX_HEADER: \definecolor{solarizedMagenta}{RGB}{211, 54, 130}
+#+LATEX_HEADER: \definecolor{solarizedViolet}{RGB}{108, 113, 196}
+#+LATEX_HEADER: \definecolor{solarizedBlue}{RGB}{38, 139, 210}
+#+LATEX_HEADER: \definecolor{solarizedCyan}{RGB}{42, 161, 152}
+#+LATEX_HEADER: \definecolor{solarizedGreen}{RGB}{133, 153, 0}
+#+LATEX_HEADER: \pagecolor{solarizedBase3}
+#+LATEX_HEADER: \color{solarizedBase00}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:   colorlinks=true,
+#+LATEX_HEADER:   linkcolor=solarizedBlue,
+#+LATEX_HEADER:   filecolor=solarizedGreen,
+#+LATEX_HEADER:   urlcolor=solarizedOrange,
+#+LATEX_HEADER:   citecolor=solarizedMagenta,
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \titleformat{\section}
+#+LATEX_HEADER: {\color{solarizedBlue}\normalfont\Large\bfseries}
+#+LATEX_HEADER: {\color{solarizedBlue}\thesection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsection}
+#+LATEX_HEADER: {\color{solarizedGreen}\normalfont\large\bfseries}
+#+LATEX_HEADER: {\color{solarizedGreen}\thesubsection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsubsection}
+#+LATEX_HEADER: {\color{solarizedYellow}\normalfont\normalsize\bfseries}
+#+LATEX_HEADER: {\color{solarizedYellow}\thesubsubsection}{1em}{}
+#+LATEX_HEADER: \definecolor{draculaBackground}{HTML}{282a36}
+#+LATEX_HEADER: \definecolor{draculaForeground}{HTML}{f8f8f2}
+#+LATEX_HEADER: \definecolor{draculaSelection}{HTML}{44475a}
+#+LATEX_HEADER: \definecolor{draculaComment}{HTML}{6272a4}
+#+LATEX_HEADER: \definecolor{draculaCyan}{HTML}{8be9fd}
+#+LATEX_HEADER: \definecolor{draculaGreen}{HTML}{50fa7b}
+#+LATEX_HEADER: \definecolor{draculaOrange}{HTML}{ffb86c}
+#+LATEX_HEADER: \definecolor{draculaPink}{HTML}{ff79c6}
+#+LATEX_HEADER: \definecolor{draculaPurple}{HTML}{bd93f9}
+#+LATEX_HEADER: \definecolor{draculaRed}{HTML}{ff5555}
+#+LATEX_HEADER: \definecolor{draculaYellow}{HTML}{f1fa8c}
+#+LATEX_HEADER: \usepackage[table,xcdraw]{xcolor}
+
+#+STARTUP: shrink
+#+STARTUP: noindent
+
+#+BEGIN_EXPORT latex
+\includepdf[pages=1,fitpaper]{pdf.pdf}
+
+\pagenumbering{\fancyhf{}}
+\pagestyle{headings}
+\pagenumbering{arabic}
+
+\fancyhead[R]{\thepage}
+
+\fancyfoot[C]{The School of joyful Learning \& Infinite Potential}
+\pagestyle{fancy}
+\renewcommand{\footrulewidth}{1px}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+#+END_EXPORT
+
+@@latex:\clearpage@@
+#+BEGIN_EXPORT latex
+\clearpage \tableofcontents \clearpage
+#+END_EXPORT
+
+* 1 Message From Principal Abreu
+
+Dear Staff:
+
+Welcome to the 2023-2024 edition of the PS 192: Jacob H. Schiff Faculty and Staff Handbook. It is the responsibility of each staff member to be fully acquainted with the information contained herein. This handbook is a living document and it will be updated, as necessary, throughout the year. It is meant to provide information and procedures that are important for the smooth operation of our PS 192 community. This handbook is a guide for ALL STAFF MEMBERS about the daily operation of our school. Please familiarize yourselves with your individual and school-wide responsibilities. Please do not hesitate to ask questions or get further clarification regarding any policy or procedure.
+
+I encourage you to begin by thoroughly acquainting or re-acquainting yourself with our school’s philosophy, mission, objectives, and core principles, as outlined in the School Overview. Key elements of this vision are elaborated upon throughout the handbook, along with important information about structures and policies that support our school mission and ensure the safety and success of all members of our school community.
+
+During the upcoming school year, we will continue to strengthen and deepen our work in relation to NYCDOE and District 6 priorities, as reflected in our School Problem of Practice, priorities, and CEP Goals. These areas will be central to our work as a Professional Learning Community and will be further addressed in Professional Learning sessions and Professional Planning Teams, as well as in administrative memos and guidelines, many of which can be accessed in Appendix B of this handbook.
+
+I look forward to our continued collaboration in the year ahead.
+
+Respectfully yours,
+
+Hilduara Abreu
+Principal
+The School of Joyful Learning!
+@@latex:\clearpage@@
+
+* 2 Acknowledgment of Receipt and Review
+
+Date: September, 2023
+
+Subject: Faculty and Staff Handbook Acknowledgment of Receipt and Review
+
+#+begin_export latex
+I,:\line(1,0){150}(staff member name), hereby acknowledge that I have read and understand the contents of the  Faculty and Staff Handbook, including Appendix A: Chancellor’s Regulations, as well as the PS 192  Family Handbook and Citywide Behavioral Expectations to Support Student Learning.  I understand that I am also responsible for following the directives included in Appendix B: Administrative Memos, as well as subsequent administrative directives that may be issued during the year. I will adhere to the policies and procedures set forth in the PS 192 Faculty and Staff  Handbooks, the Chancellor’s Regulations and in all Administrative Memos.
+
+\vspace{3mm}
+
+\faSquareO \hspace{1em} I have reviewed the The P.S. 192 Staff Handbook
+
+\vspace{10mm}
+
+\begin{center}
+\noindent\begin{tabular}{ll}
+\makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill}\\
+Teacher's Signature & Date\\[8ex]% adds space between the two sets of signatures
+\makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill}\\
+Assistant Principal & Date\\[8ex]% adds space between the two sets of signatures
+\end{tabular}
+\end{center}
+\begin{figure}
+\begin{center}
+\includegraphics[width=50mm,scale=0.5]{static/himher1}
+  \label{fig:school logo}
+\end{center}
+\end{figure}
+#+end_export
+@@latex:\clearpage@@
+
+* 3 School Overview
+
+** 3.1 Core Values
+
+At P.S. 192, we uphold a set of core values that serve as the foundation of our educational community. These values, rooted in the principles of justice, honor, and self-discipline, guide our actions, decisions, and interactions, creating a culture of integrity and excellence.
+
+- **Justice:** We are committed to fairness and equality for all members of our school community. We believe in the equitable treatment of every individual, irrespective of their background, ensuring that each student has the opportunity to thrive academically and personally. Our commitment to justice fosters an inclusive and supportive environment where every voice is heard, valued, and respected.
+
+- **Honor:** Integrity is the cornerstone of our educational philosophy. We encourage our students to act with honesty and integrity in all aspects of their lives. Upholding honor means taking responsibility for one’s actions, demonstrating ethical behavior, and consistently adhering to a code of moral values. We believe that integrity is the pathway to personal growth and societal betterment.
+
+- **Self-Discipline:** We recognize the importance of self-control and self-mastery in achieving success. At P.S. 192, we instill in our students the value of self-discipline as an essential skill for achieving their goals and aspirations. Through self-discipline, our students learn to set priorities, manage their time effectively, and overcome challenges, ultimately becoming responsible and accountable individuals.
+
+These core values of justice, honor, and self-discipline guide us in pursuing academic excellence and character development. By embracing these principles, we empower our students to become responsible citizens, compassionate leaders, and lifelong learners who contribute positively to our global community.
+
+** 3.2 Vision
+
+To ensure all students acquire the essential knowledge and skills they need to become independent thinkers, active participants, and contributors in their roles as students and as members of society.
+
+** 3.3 Mission
+
+To provide a welcoming, safe, resourceful, and nurturing environment that supports our school community’s academic and social-emotional development where children are respected and engaged in challenging curricula that motivate them to realize their potential as active, lifelong learners. Through our guiding core values of Justice, Honor, and Self-discipline, we aspire to promote perseverance, love, empathy, and respect for oneself and others.
+
+** 3.4 School Motto
+
+"Good, better, best. Never let it rest until your good is better, and your better is best." -St. Jerome
+* 4 Educational Philosophy
+
+We believe that relationships, with oneself and with others, form the basis of learning and teaching. These relationships extend beyond the classroom to include children’s families and the multiple communities of which they are a part. By building meaningful relationships among school, home, and the wider community, we seek to instill in each child an integral sense of continuity and connection that will support his or her growth in its many dimensions.
+
+Learning is a natural human process inherent to all children, transcending cultural, socio-economic, and learning differences. Children’s innate interests and capabilities are essential to the learning process. A stimulating and engaging environment can awaken a sense of wonder and intellectual curiosity that must be carefully guided and fed. Students learn best when teachers draw upon their existing understandings and help them build new understandings based on increasingly complex knowledge. To this end, our school integrates child-centered pedagogies with rigorous, content-rich instruction in response to ongoing assessment of individual student needs.
+
+** 4.1 Core Principles
+
+The vision for Jacob H. Schiff is guided by the following core principles:
+
+- An effective learning environment places meaningful relationships—among teachers, students, families, and other community members—at its center.
+
+- Small learning communities, in which adults and children know each other well, provide rich opportunities for personal, social, and intellectual development.
+
+- Families play an essential role in their children’s education and should therefore be invited to participate in multiple aspects of school life.
+
+- A community-based school must be accessible, accountable, and responsive to all families, regardless of their linguistic, cultural, socio-economic, or educational backgrounds.
+
+- Children benefit from a coherent academic program that encompasses Pre-Kindergarten to Grade 5.
+
+- All children have gifts and talents, which can be effectively fostered in heterogeneous classrooms in which adults hold high expectations for every student.
+
+- Children learn through active engagement and exploration, and by constructing understandings based on their own experiences and observations.
+
+- A language-rich environment, accessible to children of diverse backgrounds, provides the foundation for achievement in all academic disciplines and areas of life.
+
+- A well-rounded education provides academic rigor as well as opportunities for self-expression, artistic creation, and personal reflection.
+
+- Engagement in multicultural, multilingual learning environments will prepare children to participate fully in our diverse society. Education should include not only the mastery of information and skills, but also the development of critical thinking abilities and ethical awareness.
+
+** 4.2 Commitment to Achievement
+
+In our commitment to delivering a rigorous, inclusive, and family-centered educational experience for the children of our community, PS 192 will:
+
+- Uphold our identity as a dedicated learning community, earnestly striving to intimately understand each student and their family.
+
+- Cultivate an intellectually stimulating and captivating learning environment that prioritizes relationships as the primary conduit of both learning and teaching.
+
+- Assure that our students consistently attain and surpass academic benchmarks across all subject areas.
+
+- Incorporate family involvement and feedback at various levels of school administration.
+
+- Instill in every student elevated expectations for their own capabilities, reinforced by unwavering belief in their demonstrated aptitudes.
+
+- Conduct methodical evaluations of student learning assessments with the aim of scrutinizing data for patterns of misunderstandings and devising solutions to enhance student achievement.
+
+** 4.3 Commitment to Parental Engagement
+
+Research consistently confirms that meaningful family engagement plays a pivotal role in the academic success of children. In light of this, Jacob H. Schiff holds family engagement and authentic home-school partnerships at the core of its mission.
+
+At Jacob H. Schiff, we actively promote meaningful family engagement through regular opportunities for family involvement in classroom activities and school events. Our program design ensures that such involvement aligns with both the school’s mission and the educational objectives set by our teachers and staff. Parents and other family members are encouraged to provide various forms of support, which may include preparing classroom materials, delivering curriculum-related presentations about their family experiences or cultural backgrounds, or sharing their expertise in areas such as music, dance, storytelling, science, or technology. Through these collaborative efforts, teachers and family members can establish mutual respect as valued partners in the education of all PS 192 students.
+
+The relationship between the school and families is central to our mission. Consequently, we aspire to foster an active partnership that leverages the unique resources each student brings from their home environment. When families are deeply engaged in their children’s learning and children witness their parents’ dedication to their education, a vital connection is forged between the home and the school. By cultivating a cooperative partnership with each student’s family, our goal is to emphasize the role of families as the ultimate stakeholders in the school and acknowledge their responsibility in the comprehensive education of each child.
+
+As part of our commitment to transparent communication, each grade group is expected to send newsletters to families via grade-level Google groups at least twice a month. These newsletters will provide updates on curriculum developments within the classroom, upcoming field trips, suggestions for family outings, and recommended books to enhance your understanding of your child’s educational journey within our school.
+
+We look forward to nurturing this strong partnership with you and working collaboratively to ensure the success and well-rounded development of all our students.
+
+** 4.4 Commitment to Community Engagement
+
+Distinguished educational institutions not only serve as sources of inspiration for students but also maintain intrinsic connections with the communities in which they are situated. A comprehensive and diverse educational program is enriched through hands-on learning, both within and beyond the confines of the classroom. Through the establishment of cooperative alliances with community organizations, our objective is to enhance the Academy’s academic curriculum with genuine learning opportunities, extracurricular activities, and avenues for community engagement. Consequently, students can establish profound links between the school and the broader community, fostering their personal, social, and ethical growth, in addition to supporting their academic achievements. This communication aims to inform parents of our commitment to this holistic approach to education.
+
+** 4.5 Promoting Positive Student Behavior
+
+School culture and climate have a profound impact on students’ academic progress and their relationships with peers and adults. Each teacher is expected to promote a positive school culture that provides students with a supportive environment in which to grow both socially and academically. Teachers are expected to take a proactive role in nurturing students’ pro-social behavior. Social emotional learning must is one of the components of a school’s program of universal prevention for all students.
+
+Effective social emotional learning helps students develop fundamental life skills, including:
+
+- Recognizing and managing emotions
+
+- Developing caring and concern for others
+
+- Establishing positive relationships
+
+- Making responsible decisions
+
+- Handling challenging situations constructively and ethically
+
+When students develop these skills, they experience more positive relationships with peers, engage in more productive social behaviors, and are less likely to engage in misconduct.
+
+** 4.6 Social, Emotional, and Ethical Education
+
+Research findings support Jacob H. Schiff’s emphasis on fostering social, emotional, and CASEL ethical competencies as substantial contributors to academic achievement. When these educational processes are integrated with academic instruction, students gain the essential tools necessary for a lifelong commitment to learning and responsible citizenship. Therefore, it is imperative that WHA teachers actively incorporate these skills throughout all facets of the curriculum. Collaboration between teachers, school staff, and family members is essential to collectively develop and exemplify the adult competencies we aspire for our children to emulate.
+
+** 4.7 The Pre-Kindergarten–Grade 5 Looping Model
+
+Jacob H. Schiff has been implementing since 2021, offers students a continuous elementary learning experience—a model that holds value for many families and aligns with educational research. Looping, as defined by Cistone et al. (2004) in Hill (2018, p. 2), is "a policy in which whole classes (or most of the students within a class) are taught by the same teacher in sequential years." This practice, also known as "continuous learning," has demonstrated both quantitative and qualitative benefits within a school setting. A recent seminal study shows that looping can lead to improved test scores, with the most significant effects observed among minority students (Hill 2018, p. 2, Franz et al. 2010, Cistone et al. 2004, Bogart, V. 2002). Furthermore, it positively impacts student attendance and their progression to the next grade (Cistone, et al. 2004).
+
+Daggett’s Effectiveness and Efficiency Framework highlights classroom looping as one of the practices worth considering, ranking it second on the list (Beilefeld 2016). Daggett presents looping as a "low-cost, high-effect" approach for modern schools, a sentiment echoed by Hitz (2007), who emphasizes that looping is not a complex undertaking. Looping contributes to a positive school culture by reducing transitions and increasing trust in relationships with students and parents (Rassmussen 1998, Chaika 2009).
+
+Schools that have effectively implemented the looping structure have reported several benefits, including improved relationships among students and between teachers and students, more efficient instruction, improved attendance rates (5%), reduced student grade level retention (43%), fewer referrals of students to special education programs (55%), and improved student discipline (Grant 2017). Staff attendance also improved, with an average reduction from 7 days absent to just 3 days absent (Grant 2017).
+* 5 School Day Procedures
+
+** 5.1 Lesson Plans
+
+Effective lesson planning is the cornerstone of a successful instructional day. It allows us to set clear goals, organize instructional strategies, and discussion protocols, and ensure that we are delivering quality education to our students. By planning your lessons in advance, you not only optimize instructional time but also create a more engaging, data-driven, and focused learning environment for our students.
+
+Every staff member has been granted access to a printer, printing paper, ink, and a lesson plan binder to facilitate an effortless process of keeping your lesson plans accessible and organized when requested by an administrator. Printing the daily plans in advance further contributes to a smoother operation within the classrooms. It minimizes disruptions during instructional time.
+
+I understand that we all have busy schedules, and sometimes it can be challenging to find the time for detailed lesson planning. However, I want to remind you that our commitment to our students’ success is what drives us. Taking the time to use your student data to plan whole group and target small group instruction is not just our contractual and professional duty but also our moral responsibility.
+
+Your daily Lesson plan must include the following elements:
+
+- **Objective(s):** Clearly define the learning objectives, target, or goals of the lesson. What should students know or be able to do by the end of the lesson? “I can...”
+
+- **Standards:** Reference the relevant academic standards that align with the lesson.
+
+- **Duration:** Indicate the estimated time needed to complete each section of the lesson.
+
+- **Materials and Resources:** List all materials, resources, and technology required for the lesson, including textbooks, workbooks, multimedia, or any other tools.
+
+- **Pre-assessment:** Describe how you will assess students’ prior knowledge or skills related to the lesson topic.
+
+- **Integration:** If relevant, indicate how the lesson integrates with other subjects or disciplines.
+
+- **Safety Considerations:** Include any safety precautions or considerations if they apply to the lesson.
+
+- **Introduction:** Explain how you will engage students and introduce the lesson’s main concept or topic.
+
+- **Instructional Strategies:** Outline the teaching methods, strategies, and activities you will use to convey the lesson content. Be sure to include differentiated approaches to meet the needs of diverse learners.
+
+- **Grouping and Differentiation:** Specify how students will be grouped, whether by ability, interest, or other criteria. Describe how you will differentiate instruction to meet the needs of various learners, including those who may need additional support or challenges.
+
+  - **Accommodations and Modifications:** Detail any accommodations or modifications for students with special needs or diverse learning styles.
+
+  - **Language Support:** Describe how you will support English language learners (ELLs) or students who require language assistance.
+
+  - **Engagement and Discussion Strategies:** Highlight strategies and discussion protocols to keep students cognitively engaged and motivated throughout the lesson.
+
+- **Assessment and Formative Assessment:** Specifically name and describe the methods you will use to assess students’ understanding during the lesson. Include both formative assessments (ongoing checks for understanding) and a summative assessment to evaluate the lesson’s overall success.
+
+- **Closure:** Explain how you will wrap up the lesson, summarize key points, and connect the content to the learning objectives.
+
+- **Homework or Follow-Up:** Specify any homework assignments or follow-up activities that students should complete outside of class.
+
+- **Cluster Teachers:** Specify the class for which the lesson is designed. For example, Class 201. Each lesson plan must be tailored to the needs of each individual class.
+
+- **Optional Best Practice Tip:** Reflection: Provide space for reflection on the effectiveness of the lesson and any adjustments you might make when teaching it again.
+
+Let’s remember our shared dedication to providing an excellent education for PS 192 students. By prioritizing lesson planning and printing daily plans, we are not only making our jobs easier but also contributing to the overall social, emotional, and academic growth and success of our students.
+
+If you have any questions or need any of the resources listed in this email, please don’t hesitate to reach out to Ms. Macdonald, Ms. Rodriguez, or me. We are here to support you and work as a team to achieve our goals.
+
+Together, we can create an exceptional learning experience for all of our students.
+
+** 5.2 Arrival
+
+Breakfast is served within the cafeteria from 7:40 to 7:55 am. If a student intends to partake in breakfast at school, they should enter the cafeteria during the designated time frame of 7:40 to 7:55 am. School staff will ensure that students who choose to have breakfast at school are escorted to their respective classrooms by 7:59 am.
+
+All students in grades K-5 are required to assemble in the yard during arrival. Parents are kindly requested not to accompany their child into the school building. However, on the first day of school, Kindergarten and transfer students may be accompanied by a parent/guardian into the school.
+
+Please be mindful of our shared facility with PS 209 during both Arrival and Dismissal. To maintain a smooth flow, we should refrain from entering the school front door during the arrival or dismissal times of PS 229, which occur 10 to 20 minutes before our own. PS 192 families are kindly asked to wait until a PS 192 staff member opens the gate before entering.
+
+** 5.3 Student Attendance
+
+Children cannot attain their full potential, both academically and socially, if their attendance exhibits irregularity. The absence of consistent participation in instruction and the disruption of their ability to form connections with peers and curriculum significantly jeopardizes a child’s developmental progress.
+
+Students arriving late find themselves endeavoring to catch up with the classroom’s tone and pace. Therefore, we strongly urge parents to accord utmost importance to both attendance and punctuality.
+
+Our school policy stipulates that students should be present in school every day from 8:00 AM to 2:20 PM. There is a brief grace period of 5 minutes, and no student should be marked as late until after 8:05 AM. In cases of late arrivals, Shalymet Cuesta maintains records in our attendance notebook, which serves as a supplementary record. If a child has been initially marked as absent, kindly ensure that the attendance sheet is amended to reflect lateness. If the attendance folder has already been submitted, any recorded absence will be duly adjusted to reflect lateness by Shalymet Cuesta in the main office.
+
+Each class is equipped with an attendance folder that contains the scan sheet and a comprehensive list of students. Teachers bear the responsibility of meticulously recording student attendance. In the event of concerns regarding a student’s attendance, teachers should initially engage in direct communication with the parent(s)/guardian(s). Should the issue persist, teachers are encouraged to escalate it to Rijo, Cuesta, or Estrella. If the problem remains unresolved, please contact Javier.
+
+Please take note that excessive absences and/or tardiness may be construed as educational neglect, warranting reporting to the New York State Agency for Child Services (ACS).
+
+Upon completion of attendance, it is imperative to dispatch the attendance folder to the school office by 9:15 AM.
+
+- The folder will be made available in each teacher’s mailbox prior to 8:00 AM. In the event that it is not found in your mailbox by 8:00 AM, it will be delivered directly to your classroom.
+
+- Attendance must be recorded promptly upon the class’s entry into the room, and attendance forms must be diligently completed on a daily basis, serving as a vital backup for our records.
+
+- To ensure that attendance data is entered into the Attendance Tracking System (ATS) before the daily deadline, the attendance folder must be returned to the school office no later than 9:15 AM, with the classroom teacher(s) ultimately responsible for verifying its accuracy.
+
+It is of paramount importance that attendance is meticulously documented, as these records constitute official and legal documents of the highest significance.
