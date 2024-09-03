@@ -1,0 +1,133 @@
+#+TITLE: PS 192 | Responding to Door Alarm Protocol
+#+AUTHOR: School Administration
+#+AUTHOR: Hilduara Abreu
+#+EMAIL: ps192@ps192.org
+#+DATE: 2024-09-05
+#+LaTeX_CLASS_OPTIONS: [letterpaper, 12pt]
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil num:nil
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{helvet}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER: \renewcommand{\footrulewidth}{0pt}
+#+LATEX_HEADER: \setlength{\parindent}{0em}
+#+LATEX_HEADER: \setlength{\parskip}{1em}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \usepackage {color}
+#+LATEX_HEADER: \usepackage {tabularray}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:     colorlinks=true,
+#+LATEX_HEADER:     linkcolor=blue,
+#+LATEX_HEADER:     filecolor=magenta,
+#+LATEX_HEADER:     urlcolor=cyan,
+#+LATEX_HEADER:     citecolor=green,
+#+LATEX_HEADER:     pdfborder={0 0 0}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \usepackage[most]{tcolorbox}
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\newpage
+#+END_EXPORT
+\vspace*{-0.5cm}
+*PS 192 | Responding to Door Alarm Protocol*
+
+*Objective*
+
+To ensure the safety and security of all students, staff, and visitors at PS 192 by providing clear guidelines for responding to door alarms in compliance with NYC DOE regulations.
+
+*Purpose*
+
+The purpose of this protocol is to outline the steps that must be taken immediately when a door alarm is activated within the school premises. This protocol is designed to ensure a prompt, effective, and coordinated response to any potential security breach or unauthorized exit.
+
+*Immediate Response*
+- Assess the Situation
+  - Upon hearing a door alarm, the nearest staff member must immediately assess the situation.
+  - Determine whether the alarm was triggered accidentally or if it indicates an unauthorized exit or security breach.
+- Report the Alarm
+  - The staff member who responds to the alarm must immediately notify the School Safety Agent (SSA) and a member of the Admin Team.
+  - Provide the exact location of the alarm and any observations regarding the situation (e.g., students nearby, open doors, etc.).
+
+*Security Check*
+- School Safety Agent (SSA) Response
+  - The School Safety Agent (SSA) or designated security personnel must proceed to the location of the alarm immediately.
+  - Conduct a thorough check of the area to ensure that there is no unauthorized exit or entry.
+  - If the door has been breached, the SSA must secure the area and take note of any suspicious activity or individuals.
+
+*Classroom and Hallway Check*
+\newpage \vspace*{-0.5cm}
+- Teachers in nearby classrooms must conduct a quick headcount to ensure that all students are accounted for.
+- Any unaccounted students must be reported to a member of the admin team via text immediately.
+
+*Communication and Coordination*
+- Intercom Announcement
+  - The secretary will make a brief intercom announcement to inform the school community that a door alarm has been activated and that the situation is being addressed.
+  - Example Announcement: "Attention, staff and students: A door alarm has been triggered. Please remain in your current locations while the situation is being investigated."
+
+*Administration Notification*
+- The administration will coordinate with the SSA to determine whether additional measures are required, such as a lockdown or notifying law enforcement.
+
+*Investigation and Documentation*
+- Identify the Cause
+  - The SSA, in collaboration with the administration, will investigate the cause of the alarm.
+  - If it is determined that the alarm was triggered accidentally (e.g., by a student or staff member).
+
+*Unauthorized Exit*
+- If the alarm indicates an unauthorized exit (e.g., a student leaving the building without permission), the administration will take immediate action to locate the student (per the Missing Student Protocol).
+- Parents/guardians will be notified as soon as possible, and appropriate disciplinary measures will be taken in accordance with NYC DOE regulations.
+
+*Incident Documentation*
+\newpage \vspace*{-0.5cm}
+- The incident must be documented using the Online Occurrence Reporting System (OORS) by the end of the school day by Dr. Dueno.
+- The report should include details of the incident, the response actions taken, and any follow-up measures required.
+
+*Preventive Measures*
+- Regular Alarm Testing
+  - Alarms will be tested regularly to ensure they are functioning correctly.
+  - Any malfunctions or issues with the alarm system will be reported immediately to the DSF, Custodian, and D6 Superintendent for repair.
+
+*Doors and Alarm Inspection*
+- Ms. Clemons, our safety agent, will consistently and frequently inspect alarms and secure all exits to prevent unauthorized egress or access.
+- Signs will be placed on the exits that are used for arrival or dismissal, specifying the times that the alarm will not be activated. Assigned personnel will be responsible for deactivating and reactivating the alarm during arrival and dismissal.
+
+*Staff Training*
+- All staff members will receive training at the beginning of the school year on the door alarm protocol, including how to respond to an alarm and the importance of securing school entrances and exits.
+- The Responding to an Alarm protocol will be accessible to all staff in our Google Drive all year round.
+
+*Student Education*
+- Students will be educated about the importance of school safety, including the significance of door alarms and the consequences of unauthorized exits during their townhall meetings three times per year (September 2024, January 2025, April 2025).
+\newpage \vspace*{-0.5cm}
+*Follow-Up Actions*
+- Review and Feedback
+  - After the incident, the Principal will review the response with the staff involved and gather feedback to improve future responses.
+  - If necessary, adjustments to the protocol will be made and communicated to all staff members.
+
+*Parental Communication*
+- If the incident involved a student or posed a significant security risk, parents/guardians will be informed about the situation and the measures taken to resolve it.
+
+By adhering to this Door Alarm Protocol, the PS 192 school community plays a critical role in maintaining a safe and secure environment for all. If you have any questions or need further clarification, please do not hesitate to contact the school administration.
+
+With Justice, Honor, and Self-Discipline,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.2\textwidth]{hil_signature}
+#+END_EXPORT
+
+*Hilduara Abreu, Principal*
+
+*The school of Joyful Learning!*
+
+\href{www.ps192.org}{www.ps192.org}
