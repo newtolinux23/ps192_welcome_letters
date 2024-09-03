@@ -31,7 +31,7 @@
 #+LATEX_HEADER: }
 #+LATEX_HEADER: \usepackage[most]{tcolorbox}
 
-#+LATEX: \includepdf[pages=1,fitpaper]{/home/rob/.ps192_welcome_letters/2024/Welcome_Letters-En/pdf.pdf}
+#+LATEX: \includepdf[pages=1,fitpaper]{/home/rob/ps192_welcome_letters/2024/Welcome_Letters-En/pdf.pdf}
 
 #+BEGIN_EXPORT latex
 \fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
@@ -53,8 +53,8 @@
   - [[#welcome-letter-3-k-and-pre-k][Welcome Letter 3-K and Pre-K]]
   - [[#welcome-letter-k-5-2024][Welcome Letter Grades K-5]]
   - [[#promotional-criteria-and-grading-policy][Promotional Criteria and Grading Policy]]
-  - [[#visitors-and-safety-guidelines-and-procedures][Visitor and Safety Guidelines and Procedures]]
-  - [[#parents-notification-letter-for-LSI][Parent Notification Letter For Schools Designated For LSI]]
+  - [[#visitors-and-safety-guidelines-and-procedures][Visitor and Safety Guidelines Procedures]]
+  - [[#missing-student-protocol][Missing Student Protocol]]
 
 #+begin_export latex
 \newpage
@@ -598,7 +598,7 @@ With Justice, Honor, and Self-Discipline,
 #+end_export
 \vspace*{-1cm}
 
-** Visitor and Safety Guidelines and Procedures
+** Visitor and Safety Guidelines Procedures
 :PROPERTIES:
 :ID: visitors-and-safety-guidelines-and-procedures
 :END:
@@ -668,39 +668,49 @@ With Justice, Honor, and Self-Discipline,
 #+begin_export latex
 \newpage
 #+end_export
-\vspace*{-0.5cm}
+\vspace*{-1.2cm}
 
-** Parent Notification Letter For Schools Designated For LSI
+** Missing Student Protocol
 :PROPERTIES:
-:ID: parents-notification-letter-for-LSI
+:ID: missing-student-protocol
 :END:
 
-Dear Parent or Guardian,
+*Re: Implementation of the Missing Student Protocol, effective as of September 5th, 2024*
 
-This letter is to notify you that, our school,Jacob H. Schiff | PS 192, has been
-designated for Local Support and Improvement (LSI) by the New York State
-Education Department (NYSED) for the 2023-24 school year based on the performance of our students on New York State assessments in school year 2022-23. The
-designation “Local Support and Improvement (LSI),” recognizes that all schools,
-even higher performing schools like ours, are in a continuous improvement mode
-and can benefit from local support from their districts to meet students’ differentiated needs. LSI or “Good Standing” is the best accountability status
-currently available. The school’s designation is part of the state’s
-accountability system consistent with federal Elementary and Secondary Education Act (ESEA) requirements.
+This Missing Student Protocol, Visitor and Safety Guidelines Procedures  is established to ensure the safety and well-being of all students at PS192. It outlines the steps to be taken immediately if a student is identified as missing, ensuring a swift and efficient response by all staff members. The protocol aligns with NYCDOE and UFT guidelines and is designed to provide clarity and consistency in handling such critical situations.
 
-I’m confident that the programs and interventions that are being implemented
-citywide and at our school will continue to make the 2023-24 school year a high-quality educational experience for your child.
+*Reporting a Missing Child*
 
-Thank you for your ongoing partnership and support. Our entire school staff is
-committed to ensuring a successful year for our students and school community.
-If you have any questions or concerns, please feel free to contact me at 212-775-9560.
+- **Immediate Reporting**: If a staff member identifies a missing child or notices a child who eludes adult supervision, they must immediately use their cell phone to text the administration and the parent coordinator while they are seeking or following the child.
+- **Building Response Team (BRT) Activation**: If the child is confirmed missing, the Principal will activate the Building Response Team (BRT) to assist in locating the student and preventing them from leaving the premises.
+
+*Search Efforts*
+
+- **Comprehensive Search**: The BRT and all available school staff will conduct a thorough search of both indoor and outdoor areas throughout the entire school premises.
+- **Intercom Announcement**: An announcement will be made via the school-wide intercom by the secretary, using the code phrase: "The lion is out of the den. Call me if you see him or find him." This alert notifies staff of the missing child and helps gather information on the student's last known location.
+- **Law Enforcement Notification**: If the child is not found within a specific timeframe, local law enforcement will be notified. The Principal and/or the BRT chairperson will be responsible for contacting 911 and informing the Borough Safety Director and the D6 Superintendent.
+- **Student Information Profile**: Upon the arrival of law enforcement, the Principal and/or BRT chairperson will provide them with a student information profile.
+
+*Communication, Documentation, and Feedback*
+\newpage \vspace*{-1cm}
+- **Parent/Guardian Notification**: The administration will contact the parent or guardian to inform them of the situation.
+- **Incident Documentation**: Staff members responsible for the child's supervision must complete an OORS report form detailing the incident before leaving the premises if the incident occurred before 1 p.m. The form will be submitted to Assistant Principal, Dr. Milagros Dueño.
+- **Incident Review**: The Principal will review the incident form with the UFT Chapter Leader and the BRT chairperson, gather feedback and suggestions, and may convene a meeting with the involved staff members for further review and discussion.
+*Preventive Measures*
+- **Hallway and Bathroom Monitoring**:
+  - *Second Floor*: Ms. Del Orbe, Ms. Cuesta, Mr. Abreu, and Mr. Suero oversee the monitoring of the second-floor hallway and bathrooms.
+  - *First Floor*: Ms. Clemons, Ms. Rijo, and the designee assigned by the principal of MS 209 supervise the first-floor hallway and bathroom facilities.
+- **Exit Security**: Ms. Clemons, our safety agent, will consistently inspect and secure all exits to prevent unauthorized access.
+- **Student Safety Education**: During the SEL (Social-Emotional Learning) block, teachers will provide students with education on safety procedures and guidance on whom to contact if they feel lost or unsafe. This will occur once a month.
+
+Your cooperation and strict adherence to this protocol and the preventive measures outlined are crucial to ensuring the safety and security of our students. By working together and maintaining vigilance, we can significantly contribute to the overall safety of our school environment. Thank you for your attention and commitment to our students' safety.
 
 With Justice, Honor, and Self-Discipline,
 
 #+BEGIN_EXPORT latex
-\includegraphics[width=0.2\textwidth]{hil_signature}
+\includegraphics[width=0.16\textwidth]{hil_signature}
 #+END_EXPORT
 
-\textbf{Hilduara Abreu}, \textbf{Principal}
+*Hilduara Abreu, Principal*
 
-\textit{The School of Joyful Learning!}
-
-[[https://www.ps192.org][www.ps192.org]]
+\href{www.ps192.org}{The School of Joyful Learning!}

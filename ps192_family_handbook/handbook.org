@@ -1,13 +1,12 @@
-#+TITLE: P.S. 192 Family Handbook 2023-24
+#+TITLE: P.S. 192 Family Handbook 2024-25
 #+EXCLUDE_TAGS: noexport
 #+OPTIONS: toc:nil title:nil
-#+SETUPFILE: /var/home/rob/Documents/org-mode/org_article_file.org
-#+LATEX_CLASS: article
 #+LATEX_HEADER: \usepackage[margin=1.8cm]{geometry}
 #+LATEX_HEADER: \usepackage{fancyheadings}
 #+LATEX_HEADER: \usepackage{minted}
 #+LATEX_HEADER: \usepackage[utf8]{inputenc}
 #+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{fontawesome}
 #+LATEX_HEADER: \usepackage{amsfonts}
 #+LATEX_HEADER: \usepackage{amssymb}
 #+LATEX_HEADER: \usepackage{titlesec}
@@ -118,25 +117,42 @@ During the upcoming school year, we will continue to strengthen and deepen our w
 
 I look forward to our continued collaboration in the year ahead.
 
-Respectfully yours,
+With Justice, Honor and Self-Discipline,
 
-Hilduara Abreu
-Principal
-The School of Joyful Learning!
+#+attr_latex: :width 100px :center nil
+[[/home/rob/ps192_welcome_letters/ps192_family_handbook/hil_signature.png]]
+
+**Hilduara Abreu, Principal**
+
+**The School of Joyful Learning!**
+
+[[https://www.ps192.org][www.ps192.org]]
+
+#+begin_export latex
+\begin{figure}[b]
+\begin{center}
+\includegraphics[width=40mm,scale=0.3]{ps192.png}
+\caption{PS 192 school logo}
+\label{fig:school_logo}
+\end{center}
+\end{figure}
+#+end_export
+
 @@latex:\clearpage@@
 
 * 2 Acknowledgment of Receipt and Review
 
-Date: September, 2023
+*Date: September, 2024*
 
-Subject: Faculty and Staff Handbook Acknowledgment of Receipt and Review
+*Subject: Faculty and Staff Handbook Acknowledgment of Receipt and Review*
+\vspace*{1cm}
 
 #+begin_export latex
 I,:\line(1,0){150}(staff member name), hereby acknowledge that I have read and understand the contents of the  Faculty and Staff Handbook, including Appendix A: Chancellor’s Regulations, as well as the PS 192  Family Handbook and Citywide Behavioral Expectations to Support Student Learning.  I understand that I am also responsible for following the directives included in Appendix B: Administrative Memos, as well as subsequent administrative directives that may be issued during the year. I will adhere to the policies and procedures set forth in the PS 192 Faculty and Staff  Handbooks, the Chancellor’s Regulations and in all Administrative Memos.
 
 \vspace{3mm}
 
-\faSquareO \hspace{1em} I have reviewed the The P.S. 192 Staff Handbook
+\faSquareO \hspace{1em} I have reviewed The P.S. 192 Staff Handbook
 
 \vspace{10mm}
 
@@ -148,9 +164,9 @@ Teacher's Signature & Date\\[8ex]% adds space between the two sets of signatures
 Assistant Principal & Date\\[8ex]% adds space between the two sets of signatures
 \end{tabular}
 \end{center}
-\begin{figure}
+\begin{figure}[b]
 \begin{center}
-\includegraphics[width=50mm,scale=0.5]{static/himher1}
+\includegraphics[width=80mm,scale=0.8]{static/himher1}
   \label{fig:school logo}
 \end{center}
 \end{figure}
@@ -163,6 +179,13 @@ Assistant Principal & Date\\[8ex]% adds space between the two sets of signatures
 
 At P.S. 192, we uphold a set of core values that serve as the foundation of our educational community. These values, rooted in the principles of justice, honor, and self-discipline, guide our actions, decisions, and interactions, creating a culture of integrity and excellence.
 
+#+begin_export latex
+\begin{wrapfigure}{l}{0.43\textwidth}
+    \includegraphics[width=0.45\textwidth]{static/logohim.png}
+    \caption{The lion's den}
+    \label{fig:yourlabel}
+\end{wrapfigure}
+#+end_export
 - **Justice:** We are committed to fairness and equality for all members of our school community. We believe in the equitable treatment of every individual, irrespective of their background, ensuring that each student has the opportunity to thrive academically and personally. Our commitment to justice fosters an inclusive and supportive environment where every voice is heard, valued, and respected.
 
 - **Honor:** Integrity is the cornerstone of our educational philosophy. We encourage our students to act with honesty and integrity in all aspects of their lives. Upholding honor means taking responsibility for one’s actions, demonstrating ethical behavior, and consistently adhering to a code of moral values. We believe that integrity is the pathway to personal growth and societal betterment.
@@ -178,8 +201,6 @@ To ensure all students acquire the essential knowledge and skills they need to b
 ** 3.3 Mission
 
 To provide a welcoming, safe, resourceful, and nurturing environment that supports our school community’s academic and social-emotional development where children are respected and engaged in challenging curricula that motivate them to realize their potential as active, lifelong learners. Through our guiding core values of Justice, Honor, and Self-discipline, we aspire to promote perseverance, love, empathy, and respect for oneself and others.
-
-** 3.4 School Motto
 
 "Good, better, best. Never let it rest until your good is better, and your better is best." -St. Jerome
 * 4 Educational Philosophy
@@ -356,3 +377,202 @@ Upon completion of attendance, it is imperative to dispatch the attendance folde
 - To ensure that attendance data is entered into the Attendance Tracking System (ATS) before the daily deadline, the attendance folder must be returned to the school office no later than 9:15 AM, with the classroom teacher(s) ultimately responsible for verifying its accuracy.
 
 It is of paramount importance that attendance is meticulously documented, as these records constitute official and legal documents of the highest significance.
+* 6 Crisis Intervention Plan
+
+** 6.1 What is Tier 1 Support?
+
+Tier 1 systems, data, and practices support everyone across all settings. They establish the foundation for delivering regular, proactive support and preventing unwanted behaviors. Tier 1 emphasizes modeling, teaching, and acknowledging positive social, emotional, and behavioral (SEB) skills.
+
+The core principles guiding Tier 1 include the understanding that we can and should:
+
+- Effectively teach appropriate SEB skills to all students.
+
+- Differentiate instruction for behavior.
+
+- Intervene early before unwanted behaviors escalate.
+
+- Use research-based, scientifically validated interventions whenever possible.
+
+- Clearly define consequences for unwanted behaviors.
+
+- Monitor student progress.
+
+- Use data to make decisions.
+
+** 6.1.1 Tier I De-Escalation Strategies
+
+- Act calm.
+
+- Give a choice—a simple, quick, calm, respectful way of letting a student know about the unwanted behavior and what they could do instead.
+
+- Change the subject to a positive one: Redirect behavior.
+
+- Remind them of a strategy they know.
+
+- Co-regulate when they can self-regulate.
+
+- Invite students to a calming activity (breathing, drawing, journaling).
+
+- Give space and wait time.
+
+- Use a behavior progress report (must be signed by a parent on a daily or weekly basis).
+
+- 1-1 conference with the student and/or guardian.
+
+** 6.2 What is Tier 2 Support?
+
+- Progress monitoring for at-risk students.
+
+- Create structures and predictability: Intervene early before unwanted behaviors escalate by anticipating triggers and possible solutions.
+
+- Weekly meeting with the Crisis Intervention team for increasing contingent adult feedback.
+
+- Analyze academic and behavioral performance.
+
+- Increase home/school communication.
+
+- Collect and use data for decision-making.
+
+- Basic-level function-based support.
+
+** 6.2.1 Tier II De-Escalation Strategies
+
+- Act calm.
+
+- Be empathetic and nonjudgmental.
+
+- Avoid overreacting.
+
+- Set positive limits.
+
+- Ignore challenging questions.
+
+- Allow quiet time for reflection.
+
+- Do a quick body scan.
+
+- Use diffusers to de-escalate.
+
+- Practice reflective teaching.
+
+- 1-1 conference with students and/or guardian.
+
+- Small group counseling sessions.
+
+** 6.3 Tier 3
+
+Tier 3 involves intensive, individualized interventions for students with significant behavioral needs that have not responded to Tier 1 or Tier 2 supports.
+
+* 7 Professional Expectations
+
+** 7.1 Teacher Criteria
+
+At Jacob H. Schiff, a foundational tenet of our educational philosophy revolves around a team-based approach to teaching and learning. In alignment with our school’s overarching mission, our dedicated educators engage in collaborative efforts to meticulously design curriculum and instructional strategies. They employ a diverse array of assessment tools to thoughtfully analyze student progress, thereby informing and enhancing our teaching methods.
+
+This collaborative planning plays a pivotal role in ensuring the seamless alignment of curriculum objectives and fostering instructional uniformity across various classrooms and grade levels. Furthermore, our teachers operate within collaborative teams to actively support the holistic growth of our students, encompassing their social, emotional, and ethical development. This comprehensive approach underscores our commitment to providing a well-rounded education for your child.
+
+All personnel are expected to embrace and promote the mission, philosophy, and fundamental tenets of PS 192: Jacob H. Schiff, and must either possess or be open to acquiring the following skills and attitudes:
+
+- Operate effectively within a highly collaborative environment, necessitating active, suitable, and proficient communication with peers, parents, students, and other stakeholders.
+
+- Adapt to the school’s timetable and organizational structure, tailored to meet the diverse backgrounds and requirements of our students.
+
+- Engage in interdisciplinary planning and teaching teams with a primary focus on integrating social and emotional learning into every facet of instruction.
+
+- Adopt an open-door policy to foster the development of best-practice pedagogy and facilitate professional growth through collaboration.
+
+- Utilize a variety of assessment methods and student data to guide effective instruction.
+
+- Review, apply, and ensure the provision of services, modifications, and accommodations as outlined in IEPs (Individualized Education Plans) for SWD (Students with Disabilities) in compliance with their entitlements.
+
+- Effectively manage classrooms populated with diverse learners, utilizing flexible and cooperative groupings, as well as targeted whole-class instruction to address varying learning styles, academic proficiency levels, and social-emotional needs.
+
+- Incorporate project-based work and instruction across various content areas.
+
+- Devise and execute challenging, engaging units that encourage critical thinking and culminate in completed student works, contributing to a growing portfolio.
+
+- Seamlessly integrate technology as a teaching tool within the classroom.
+
+- Create meaningful opportunities for family involvement within the classroom and throughout the school, including workshops and resources.
+
+- Contribute to and participate in special programs, such as workshops and curriculum nights, with a particular emphasis on engaging families.
+
+- Engage in after-school and Saturday programs, attend planning sessions, and potentially contribute to summer planning and curriculum development.
+
+- Report to the assigned post by 8:00 a.m. daily, as any arrival after 8:00 a.m. will be considered tardy.
+
+- Adhere to the prescribed program schedule, punctuality in all classes, Related Services sessions, and fulfill all assigned duties and responsibilities.
+
+- Maintain readily accessible daily lesson plans or session plans upon request, utilizing a provided lesson plan binder for organization and accessibility, which should be placed atop the portfolio shelf near the entrance.
+
+- Regularly check and respond to emails and review the office communication board.
+
+- Attend to office mailboxes at the start and end of each day. When departing the building for lunch or meetings, ensure completion of the sign-out book and consult with our secretary, Ms. Dulce Infante, before leaving.
+
+- Following attendance at professional learning sessions or workshops during work hours, provide proof of attendance and an agenda within 48 hours to Ms. D. Infante, in either hard or soft copy format. Initiate daily attendance taking at the outset of each day, preserving records and placing the red attendance folder in the exterior compartment adjacent to your classroom door. This requirement applies solely to classroom teachers and substitute teachers.
+
+- Complete the sign-out book, situated at the classroom entrance, when removing a student from the classroom for the provision of Related Services or evaluation.
+
+- Maintain close supervision of students at all times. During the school day, students are not permitted to exit the school premises unless signed out at the welcome center by an adult aged 18 or older, whose name must be listed on the emergency contact card. Outside of dismissal hours, teachers may not release a child to anyone not listed on the blue card without administrative approval. The official teacher is responsible for the whereabouts of their assigned students at all times. Should another staff member redirect a student, the homeroom teacher must be informed. Students from different classes should not enter your classroom without prior notification via classroom phone or written communication. In grades 4-5, students may travel within the building independently with a pass, but they must never be left unattended. In the event of leaving the room, students must be entrusted to the care of another adult. In emergencies, contact the main office, a supervisor, or another staff member for assistance. Group movement of students within the building must always include adult accompaniment. Under no circumstances should students be left unattended in hallways or anywhere within the building. Immediate notification to the main office is imperative in the following situations:
+
+  - if a student departs from your room without permission.
+
+  - fails to return from lunch or a bathroom break.
+
+  - or goes missing for a duration exceeding 5 minutes, in order to promptly inform their parents and seek their assistance in locating the student.
+
+- When encountering a student without an adult or pass, direct them back to their assigned classroom or escort them to the main office if no classroom is evident. No students should be permitted to walk the hallways or leave the building without a classroom pass.
+
+* 8 Professional Conduct
+
+** 8.1 Unacceptable Professional Behaviors
+
+- Displaying confrontational, dismissive, or disrespectful behavior toward students, colleagues, or parents.
+
+- Engaging in any conduct that undermines the dignity, respect, or safety of the school environment.
+
+- Neglecting duties or failing to perform responsibilities as outlined in the job description or the school’s policies and procedures.
+
+- Failing to comply with attendance policies, including arriving late or leaving early without proper authorization.
+
+- Inappropriate use of technology or resources provided by the school for personal purposes during work hours.
+
+- Failing to maintain professional boundaries with students and colleagues.
+
+- Engaging in behavior that could be construed as favoritism, discrimination, or harassment.
+
+- Failing to adhere to the confidentiality policies regarding students, staff, or school operations.
+
+- Any other conduct deemed unprofessional or detrimental to the school community.
+
+* 9 Health and Wellness
+
+** 9.1 School Nurse
+
+The school nurse is responsible for managing student health issues, administering medication, and providing first aid. Teachers should send students to the nurse with a pass, unless it is an emergency.
+
+** 9.2 Administration of Medication
+
+Students who require medication during school hours must have a completed 504 plan on file. The nurse is the only individual authorized to administer medication to students.
+
+** 9.3 Illness
+
+If a student is feeling unwell, they should be sent to the nurse for evaluation. If the student is too ill to remain in school, the nurse will contact the parents/guardians to arrange for the student to be picked up.
+
+** 9.4 Incident Reports
+
+In the event of an accident or injury, staff members must complete an incident report and submit it to the school nurse and administration. This report should include details of the incident, the individuals involved, and any actions taken.
+
+** 9.5 Safety and Emergency Preparedness
+
+Safety is a top priority at PS 192. All staff members must be familiar with the school’s emergency procedures and participate in regular drills. In case of an emergency, follow the established protocols to ensure the safety of students and staff.
+
+** 9.6 Inter-visitations
+
+Inter-visitations between teachers are encouraged to promote professional growth and the sharing of best practices. Teachers interested in participating in inter-visitations should coordinate with their grade-level team and administration.
+
+** 9.7 Safety
+
+The safety of our students and staff is of the utmost importance. All staff members must adhere to safety protocols, including supervising students at all times, ensuring that students are not left unattended, and reporting any safety concerns to the administration immediately.
+
+This completes the conversion of the entire document into Org mode. If you need any further modifications or have any additional requests, please let me know!

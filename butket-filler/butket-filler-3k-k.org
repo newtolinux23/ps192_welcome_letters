@@ -1,0 +1,232 @@
+#+TITLE: P.S. 192 Family Handbook 2023-24
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil
+#+SETUPFILE: /var/home/rob/Documents/org-mode/org_article_file.org
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage[margin=1.8cm]{geometry}
+#+LATEX_HEADER: \usepackage{fancyheadings}
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amsfonts}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LaTeX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \usepackage{listings}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{wrapfig}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \usepackage{tabularray}
+#+LATEX_HEADER: \restylefloat{table}
+#+latex_header: \usemintedstyle{dracula}
+#+LATEX_HEADER: \usepackage[table]{xcolor}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage[none]{hyphenat}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{pagecolor}
+#+LATEX_HEADER: \definecolor{solarizedBase03}{RGB}{0, 43, 54}
+#+LATEX_HEADER: \definecolor{solarizedBase02}{RGB}{7, 54, 66}
+#+LATEX_HEADER: \definecolor{solarizedBase01}{RGB}{88, 110, 117}
+#+LATEX_HEADER: \definecolor{solarizedBase00}{RGB}{101, 123, 131}
+#+LATEX_HEADER: \definecolor{solarizedBase0}{RGB}{131, 148, 150}
+#+LATEX_HEADER: \definecolor{solarizedBase1}{RGB}{147, 161, 161}
+#+LATEX_HEADER: \definecolor{solarizedBase2}{RGB}{238, 232, 213}
+#+LATEX_HEADER: \definecolor{solarizedBase3}{RGB}{253, 246, 227}
+#+LATEX_HEADER: \definecolor{solarizedYellow}{RGB}{181, 137, 0}
+#+LATEX_HEADER: \definecolor{solarizedOrange}{RGB}{203, 75, 22}
+#+LATEX_HEADER: \definecolor{solarizedRed}{RGB}{220, 50, 47}
+#+LATEX_HEADER: \definecolor{solarizedMagenta}{RGB}{211, 54, 130}
+#+LATEX_HEADER: \definecolor{solarizedViolet}{RGB}{108, 113, 196}
+#+LATEX_HEADER: \definecolor{solarizedBlue}{RGB}{38, 139, 210}
+#+LATEX_HEADER: \definecolor{solarizedCyan}{RGB}{42, 161, 152}
+#+LATEX_HEADER: \definecolor{solarizedGreen}{RGB}{133, 153, 0}
+#+LATEX_HEADER: \pagecolor{solarizedBase3}
+#+LATEX_HEADER: \color{solarizedBase00}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:   colorlinks=true,
+#+LATEX_HEADER:   linkcolor=solarizedBlue,
+#+LATEX_HEADER:   filecolor=solarizedGreen,
+#+LATEX_HEADER:   urlcolor=solarizedOrange,
+#+LATEX_HEADER:   citecolor=solarizedMagenta,
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \titleformat{\section}
+#+LATEX_HEADER: {\color{solarizedBlue}\normalfont\Large\bfseries}
+#+LATEX_HEADER: {\color{solarizedBlue}\thesection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsection}
+#+LATEX_HEADER: {\color{solarizedGreen}\normalfont\large\bfseries}
+#+LATEX_HEADER: {\color{solarizedGreen}\thesubsection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsubsection}
+#+LATEX_HEADER: {\color{solarizedYellow}\normalfont\normalsize\bfseries}
+#+LATEX_HEADER: {\color{solarizedYellow}\thesubsubsection}{1em}{}
+#+LATEX_HEADER: \definecolor{draculaBackground}{HTML}{282a36}
+#+LATEX_HEADER: \definecolor{draculaForeground}{HTML}{f8f8f2}
+#+LATEX_HEADER: \definecolor{draculaSelection}{HTML}{44475a}
+#+LATEX_HEADER: \definecolor{draculaComment}{HTML}{6272a4}
+#+LATEX_HEADER: \definecolor{draculaCyan}{HTML}{8be9fd}
+#+LATEX_HEADER: \definecolor{draculaGreen}{HTML}{50fa7b}
+#+LATEX_HEADER: \definecolor{draculaOrange}{HTML}{ffb86c}
+#+LATEX_HEADER: \definecolor{draculaPink}{HTML}{ff79c6}
+#+LATEX_HEADER: \definecolor{draculaPurple}{HTML}{bd93f9}
+#+LATEX_HEADER: \definecolor{draculaRed}{HTML}{ff5555}
+#+LATEX_HEADER: \definecolor{draculaYellow}{HTML}{f1fa8c}
+#+LATEX_HEADER: \usepackage[table,xcdraw]{xcolor}
+
+#+STARTUP: shrink
+#+STARTUP: noindent
+
+#+BEGIN_EXPORT latex
+\includepdf[pages=1,fitpaper]{pdf1.pdf}
+
+\pagenumbering{\fancyhf{}}
+\pagestyle{headings}
+\pagenumbering{arabic}
+
+\fancyhead[R]{\thepage}
+
+\fancyfoot[C]{The School of joyful Learning \& Infinite Potential}
+\pagestyle{fancy}
+\renewcommand{\footrulewidth}{1px}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+#+END_EXPORT
+
+@@latex:\clearpage@@
+#+BEGIN_EXPORT latex
+\clearpage \tableofcontents \clearpage
+#+END_EXPORT
+
+* Introduction
+Welcome to PS192, where every day is an adventure in joyful learning! This book is about two very special characters, Leo and Lea, who learn about the values of justice, honor, and self-discipline through magical experiences at their school. As you read their story, you’ll discover how you can be a bucket filler, just like Leo and Lea, and make PS192 a place where everyone feels safe, respected, and happy.
+#+BEGIN_EXPORT latex
+\begin{figure}[b]  % The 'b' option places the figure at the bottom of the page
+  \centering \includegraphics[width=.5\textwidth]{/home/rob/ps192_welcome_letters/butket-filler/himher1.png}
+  \label{fig:fronpage bottom_image}
+\end{figure}
+#+end_export
+
+\newpage
+#+BEGIN_EXPORT latex
+\begin{figure}[h]  % The 'b' option places the figure at the bottom of the page
+  \centering \includegraphics[width=1\textwidth]{/home/rob/ps192_welcome_letters/butket-filler/chapter1.opti.png}
+  \label{fig:fronpage bottom_image}
+\end{figure}
+#+end_export
+** Chapter 1: The Magical School Bell
+Leo the Lion and Lea the Lioness were excited for their first day at PS192. They had heard that it was a very special school, filled with joy and magic. As they walked through the big doors, they heard a bell ring. But this was no ordinary bell—this was the magical school bell! It shimmered with colors and sparkled like the stars.
+
+Ms. Joy, their teacher, welcomed them with a big smile. "Leo and Lea," she said, "here at PS192, we believe in filling each other's buckets with kindness and respect. Today, you'll start learning how to do just that!"
+\newpage
+#+BEGIN_EXPORT latex
+\begin{figure}[h]  % The 'b' option places the figure at the bottom of the page
+  \centering \includegraphics[width=1\textwidth]{/home/rob/ps192_welcome_letters/butket-filler/chapter2.opti.png}
+  \label{fig:fronpage bottom_image}
+\end{figure}
+#+end_export
+** Chapter 2: The Hallway of Justice
+Ms. Joy led the class down the hallway, which was called the Hallway of Justice. The walls were lined with pictures of students standing up for what is right. There was a golden scale that tipped toward fairness, and whenever someone made a just decision, the scale would glow.
+
+"Justice means treating everyone fairly and standing up for what is right," Ms. Joy explained. Leo and Lea noticed a friend being left out of a game and remembered what Ms. Joy said. They invited the friend to join, and the scale glowed brightly. Leo and Lea felt their buckets fill with happiness.
+\newpage
+#+BEGIN_EXPORT latex
+\begin{figure}[h]  % The 'b' option places the figure at the bottom of the page
+  \centering \includegraphics[width=1\textwidth]{/home/rob/ps192_welcome_letters/butket-filler/chapter3.opti.png}
+  \label{fig:fronpage bottom_image}
+\end{figure}
+#+end_export
+** Chapter 3: The Garden of Honor
+Next, Ms. Joy took them to the Garden of Honor. The flowers here only bloomed when someone did something honorable. Honor means being truthful, keeping promises, and showing respect.
+
+Leo and Lea saw a flower wilting. "Why is it sad?" Leo asked. Ms. Joy explained that someone had forgotten to return a borrowed book. Lea quickly remembered that she had borrowed a crayon and hadn’t returned it. She ran back to give it to its owner, and the flower bloomed beautifully. Their buckets felt fuller than ever!
+\newpage
+#+BEGIN_EXPORT latex
+\begin{figure}[h]  % The 'b' option places the figure at the bottom of the page
+  \centering \includegraphics[width=1\textwidth]{/home/rob/ps192_welcome_letters/butket-filler/chapter4.opti.png}
+  \label{fig:fronpage bottom_image}
+\end{figure}
+#+end_export
+** Chapter 4: The Tower of Self-Discipline
+Finally, Ms. Joy brought them to the Tower of Self-Discipline. It was tall and strong, built brick by brick by students who practiced self-control and patience. The tower’s bricks were inscribed with words like "Patience," "Focus," and "Determination."
+
+Leo was tempted to run ahead and play, but he remembered the lesson about self-discipline. He took a deep breath, waited his turn, and focused on the task. Another brick appeared on the tower with his name on it, and his bucket filled with pride.
+\newpage
+#+BEGIN_EXPORT latex
+\begin{figure}[h]  % The 'b' option places the figure at the bottom of the page
+  \centering \includegraphics[width=1\textwidth]{/home/rob/ps192_welcome_letters/butket-filler/final-chapter.opti.png}
+  \label{fig:fronpage bottom_image}
+\end{figure}
+#+END_EXPORT
+** Chapter 5: The Bucket Filler's Secret
+At the end of the day, Ms. Joy gathered everyone. "You’ve all done something amazing today," she said. "By practicing justice, honor, and self-discipline, you’ve filled your buckets and others’. That’s the secret of being a bucket filler—when you help others feel good, you feel good too!"
+
+Leo and Lea looked at their buckets, now overflowing with happiness. They knew that every day at PS192 would be an opportunity to fill more buckets, make new friends, and grow together.
+
+\newpage
+* Classroom Material
+** Activity 1: Create Your Own Bucket
+- **Objective:** Students will create their own paper bucket to symbolize their goal of being a bucket filler.
+- **Materials:** Construction paper, crayons, scissors, glue.
+- **Instructions:** Have students decorate a paper bucket with their name on it. They can add drawings that represent justice, honor, and self-discipline.
+- **Discussion:** Talk about ways to fill their bucket and others' throughout the school day.
+
+** Activity 2: Justice, Honor, and Self-Discipline Charades
+- **Objective:** Reinforce understanding of the school values through role-play.
+- **Materials:** None.
+- **Instructions:** In small groups, students act out scenarios that demonstrate justice, honor, or self-discipline while the others guess the value being displayed.
+- **Discussion:** Reflect on how these values make the school a better place.
+
+** Activity 3: The Garden of Honor Collage
+- **Objective:** Encourage students to recognize honorable behavior.
+- **Materials:** Magazines, glue, large poster board.
+- **Instructions:** Have students cut out pictures that represent honor (e.g., helping others, sharing) and create a class collage.
+- **Discussion:** Display the collage as a reminder to practice honor daily.
+
+** Activity 4: The Tower of Self-Discipline Building Challenge
+- **Objective:** Practice self-discipline in a group setting.
+- **Materials:** Blocks or stacking toys.
+- **Instructions:** Students work together to build the tallest tower they can, but they must do it slowly and carefully, practicing patience and teamwork.
+- **Discussion:** Discuss how self-discipline helped them achieve their goal.
+\newpage
+* Teacher Plan
+** Day 1: Introduction to Bucket Filling
+- Read "Leo and Lea's Magical Adventure at PS192." Discuss the concept of bucket filling.
+- Activity: Create Your Own Bucket.
+- Discuss and role-play (Activity 2) the values of justice, honor, and self-discipline.
+
+** Day 2: Deep Dive into Values
+- Focus on Justice. Revisit the Hallway of Justice from the story. Discuss examples.
+- Activity: The Garden of Honor Collage.
+- Focus on Honor. Discuss how keeping promises and telling the truth are ways to fill buckets.
+
+** Day 3: Building Self-Discipline
+- Focus on Self-Discipline. Revisit the Tower of Self-Discipline from the story.
+- Activity: The Tower of Self-Discipline Building Challenge.
+- Reflection circle. Have students share how they’ve filled a bucket this week.
+
+** Day 4: Practice and Reflection
+- Review all the values. How can we be bucket fillers every day?
+- Re-read "Leo and Lea's Magical Adventure at PS192." Have students draw their favorite part and explain why.
+- Class discussion and bucket-filling celebration. Hand out "Bucket Filler of the Month" certificates to students who have consistently practiced the values.
+\newpage
+* Additional Tools for Teachers
+** Bucket Filler Chart
+- **Purpose:** Track acts of bucket filling in the classroom.
+- **How to Use:** Each time a student fills a bucket (justice, honor, or self-discipline), place a star or sticker next to their name on the chart.
+
+** Bucket Filler Certificates
+- **Purpose:** Acknowledge students who consistently fill others’ buckets.
+- **How to Use:** At the end of the month, award a certificate to the student(s) who best exemplify the school’s values.
+
+** Reflection Journals
+- **Purpose:** Encourage students to reflect on how they have filled buckets each day.
+- **How to Use:** Provide a small journal for each student where they can draw or write about their bucket-filling experiences.
