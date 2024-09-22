@@ -1,0 +1,251 @@
+#+TITLE: PS 192 Family Handbook
+#+AUTHOR: Ms. Hilduara Abreu, Principal
+#+DATE: 2024-2025
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil
+#+SETUPFILE: /var/home/rob/Documents/org-mode/org_article_file.org
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage[margin=1.8cm]{geometry}
+#+LATEX_HEADER: \usepackage{fancyheadings}
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amsfonts}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LaTeX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \usepackage{listings}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{wrapfig}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \usepackage{tabularray}
+#+LATEX_HEADER: \restylefloat{table}
+#+latex_header: \usemintedstyle{dracula}
+#+LATEX_HEADER: \usepackage[table]{xcolor}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage[none]{hyphenat}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{pagecolor}
+#+LATEX_HEADER: \definecolor{solarizedBase03}{RGB}{0, 43, 54}
+#+LATEX_HEADER: \definecolor{solarizedBase02}{RGB}{7, 54, 66}
+#+LATEX_HEADER: \definecolor{solarizedBase01}{RGB}{88, 110, 117}
+#+LATEX_HEADER: \definecolor{solarizedBase00}{RGB}{101, 123, 131}
+#+LATEX_HEADER: \definecolor{solarizedBase0}{RGB}{131, 148, 150}
+#+LATEX_HEADER: \definecolor{solarizedBase1}{RGB}{147, 161, 161}
+#+LATEX_HEADER: \definecolor{solarizedBase2}{RGB}{238, 232, 213}
+#+LATEX_HEADER: \definecolor{solarizedBase3}{RGB}{253, 246, 227}
+#+LATEX_HEADER: \definecolor{solarizedYellow}{RGB}{181, 137, 0}
+#+LATEX_HEADER: \definecolor{solarizedOrange}{RGB}{203, 75, 22}
+#+LATEX_HEADER: \definecolor{solarizedRed}{RGB}{220, 50, 47}
+#+LATEX_HEADER: \definecolor{solarizedMagenta}{RGB}{211, 54, 130}
+#+LATEX_HEADER: \definecolor{solarizedViolet}{RGB}{108, 113, 196}
+#+LATEX_HEADER: \definecolor{solarizedBlue}{RGB}{38, 139, 210}
+#+LATEX_HEADER: \definecolor{solarizedCyan}{RGB}{42, 161, 152}
+#+LATEX_HEADER: \definecolor{solarizedGreen}{RGB}{133, 153, 0}
+#+LATEX_HEADER: \pagecolor{solarizedBase3}
+#+LATEX_HEADER: \color{solarizedBase00}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:   colorlinks=true,
+#+LATEX_HEADER:   linkcolor=solarizedBlue,
+#+LATEX_HEADER:   filecolor=solarizedGreen,
+#+LATEX_HEADER:   urlcolor=solarizedOrange,
+#+LATEX_HEADER:   citecolor=solarizedMagenta,
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \titleformat{\section}
+#+LATEX_HEADER: {\color{solarizedBlue}\normalfont\Large\bfseries}
+#+LATEX_HEADER: {\color{solarizedBlue}\thesection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsection}
+#+LATEX_HEADER: {\color{solarizedGreen}\normalfont\large\bfseries}
+#+LATEX_HEADER: {\color{solarizedGreen}\thesubsection}{1em}{}
+#+LATEX_HEADER: \titleformat{\subsubsection}
+#+LATEX_HEADER: {\color{solarizedYellow}\normalfont\normalsize\bfseries}
+#+LATEX_HEADER: {\color{solarizedYellow}\thesubsubsection}{1em}{}
+#+LATEX_HEADER: \definecolor{draculaBackground}{HTML}{282a36}
+#+LATEX_HEADER: \definecolor{draculaForeground}{HTML}{f8f8f2}
+#+LATEX_HEADER: \definecolor{draculaSelection}{HTML}{44475a}
+#+LATEX_HEADER: \definecolor{draculaComment}{HTML}{6272a4}
+#+LATEX_HEADER: \definecolor{draculaCyan}{HTML}{8be9fd}
+#+LATEX_HEADER: \definecolor{draculaGreen}{HTML}{50fa7b}
+#+LATEX_HEADER: \definecolor{draculaOrange}{HTML}{ffb86c}
+#+LATEX_HEADER: \definecolor{draculaPink}{HTML}{ff79c6}
+#+LATEX_HEADER: \definecolor{draculaPurple}{HTML}{bd93f9}
+#+LATEX_HEADER: \definecolor{draculaRed}{HTML}{ff5555}
+#+LATEX_HEADER: \definecolor{draculaYellow}{HTML}{f1fa8c}
+#+LATEX_HEADER: \usepackage[table,xcdraw]{xcolor}
+
+#+STARTUP: shrink
+#+STARTUP: noindent
+
+#+BEGIN_EXPORT latex
+\includepdf[pages=1,fitpaper]{pdf.pdf}
+
+\pagenumbering{\fancyhf{}}
+\pagestyle{headings}
+\pagenumbering{arabic}
+
+\fancyhead[R]{\thepage}
+
+\fancyfoot[C]{The School of joyful Learning \& Infinite Potential}
+\pagestyle{fancy}
+\renewcommand{\footrulewidth}{1px}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+#+END_EXPORT
+
+@@latex:\clearpage@@
+#+BEGIN_EXPORT latex
+\clearpage \tableofcontents \clearpage
+#+END_EXPORT
+* Introduction
+This handbook serves as a guide to the policies, procedures, and expectations at PS 192 for the 2023-2024 school year. Please note that this document is subject to change throughout the year in response to New York City Department of Education (NYC DOE) updates, evolving needs within our school community, or other circumstances that may arise. This is a living document designed for the PS 192 school community, and we will keep families informed of any significant updates.
+
+* Welcome!
+Dear Families,
+
+Welcome to PS 192 for the 2024-2025 school year. At PS 192, we are proud of our commitment to joyful learning, where every child is encouraged to explore, discover, and grow in a supportive environment. We look forward to working with you and your child to provide every opportunity for success. We invite you to be active participants in our school community.
+
+With Justice, Honor, and Self-discipline,
+
+Ms. Hilduara Abreu, Principal
+Dr. Milagros Dueno, Assistant Principal
+Ms. Arelis Javier, Assistant Principal
+Ms. Angela Rijo, Parent Coordinator
+Ms. Dulce Infante, School Secretary
+
+* About PS 192
+PS 192 is a diverse elementary school located in Harlem, NYC. Our mission is to provide students with a rich and rigorous academic program while fostering a supportive community where every child feels safe and valued.
+
+Our Core Values:
+- **Justice**
+- **Honor**
+- **Self-discipline**
+
+These values guide everything we do, from our classroom instruction to our school-wide initiatives.
+
+**School-Wide Norms**:
+- We take care of ourselves.
+- We take care of each other.
+- We take care of our community.
+
+* Key Information for Families
+** Key Contacts
+Below are the key contacts for this school year:
+
+- **Principal**: Ms. Hilduara Abreu (habreu@ps192.org)
+- **Assistant Principals**: Dr. Milagros Dueno, Ms. Arelis Javier
+- **Parent Coordinator**: Ms. Angela Rijo (arijo@ps192.org)
+- **School Secretary**: Ms. Dulce Infante
+- **Main Office Phone**: 212-XXX-XXXX
+
+** School Day Schedule
+- School hours: 8:30 AM - 2:50 PM
+- Breakfast: 8:00 AM - 8:25 AM
+
+Please ensure your child arrives on time each day. Punctuality is crucial to their learning experience.
+
+** Arrival and Dismissal
+- **Arrival**: Students can enter the building at 8:15 AM. Those having breakfast may arrive as early as 8:00 AM.
+- **Dismissal**: Dismissal is at 2:50 PM. Please be prompt in picking up your child.
+
+** Late Arrivals
+If your child arrives after 8:30 AM, they must report to the main office for a late pass.
+
+** Early Dismissal
+If you need to pick up your child early, please email us at ~dismissal@ps192.org~ before 11 AM, and arrive no later than 2:30 PM for early pickup.
+
+** Attendance and Absences
+Regular attendance is critical to your child's success. If your child is absent, please email ~attendance@ps192.org~ each day they are absent. A doctor's note is required after two consecutive days of absence.
+
+** Breakfast, Lunch, and Snacks
+PS 192 offers free breakfast and lunch to all students. We are committed to healthy eating, and snacks brought from home should be nutritious and nut-free.
+
+* Wellness and Healthy Eating
+PS 192 encourages healthy habits, including proper nutrition and physical activity. Children should bring a water bottle to school and wear comfortable, weather-appropriate clothing for outdoor play.
+
+- **No Nut Policy**: Due to allergies, PS 192 is a nut-free school.
+- **No Junk Food Policy**: Please avoid sending candy, chips, or sugary snacks. Gum is not allowed in school.
+
+* Family Engagement
+** Parent Involvement
+At PS 192, we believe in building strong partnerships with families. Parents and guardians are encouraged to volunteer and participate in school events.
+
+** Class Parents
+Class parents help facilitate communication between teachers and parents, assist with organizing classroom events, and coordinate volunteer efforts. If you are interested in becoming a class parent, please speak with your child's teacher.
+
+** Parents’ Association
+All parents are automatically members of the PS 192 Parents’ Association (PA). The PA works with the school to organize events, raise funds, and support the school's mission. Monthly PA meetings are held to discuss important topics and build community.
+
+* Curriculum and Instruction
+PS 192 follows a comprehensive curriculum that integrates literacy, math, social studies, and science. We also focus on social-emotional learning, emphasizing respect, responsibility, and empathy.
+
+** Looping
+At PS 192, we use the looping model where students stay with the same teacher for two years, ensuring continuity and deep relationships between teachers and students.
+
+** Assessment and Student Progress
+We regularly assess student progress through a combination of formative and summative assessments. Report cards are distributed three times a year, and student-led conferences are held to discuss goals and progress.
+
+- **Standardized Testing**: Students in grades 3-5 participate in NY State English Language Arts (ELA) and Mathematics exams, as well as the Science exam in 5th grade.
+
+* Discipline Policies and Procedures
+PS 192 follows the NYC DOE Discipline Code. Our approach to discipline emphasizes restorative justice and logical consequences, ensuring students understand the impact of their behavior and are supported in making better choices.
+
+** Cell Phones and Electronic Devices
+Cell phones and electronic devices must be turned off and stored away during the school day. If a student needs to contact a parent, they must go to the main office.
+
+** Logical Consequences
+- **Take a Break**: A student may take a brief break to regain control if they are feeling overwhelmed.
+- **Loss of Privileges**: If a student misuses a material or behaves inappropriately, they may lose the privilege temporarily.
+- **Restorative Justice**: Students are encouraged to "fix" their mistakes, whether it’s through an apology or a community service activity.
+
+* Communication
+PS 192 uses several communication methods to keep families informed:
+- **School Website**: Visit ~www.ps192.org~ for important updates and resources.
+- **Emails**: Weekly emails are sent out with information about upcoming events and school news.
+- **Newsletters**: Monthly newsletters provide detailed updates on classroom activities and school-wide initiatives.
+
+** Parent-Teacher Communication
+Parents are encouraged to maintain open lines of communication with teachers. Teachers will share their preferred method of communication at the start of the year. If you have concerns, please contact your child’s teacher to schedule a meeting.
+
+* Health and Safety
+** School Nurse
+PS 192 has a full-time school nurse to address any medical needs. Please ensure all emergency contact information is up to date.
+
+** Medication
+If your child requires medication during school hours, please submit the appropriate 504 medical form to the nurse’s office.
+
+** Illness
+Children should stay home if they are feeling unwell. Please notify the school if your child contracts a communicable disease, so we can inform other families.
+
+** Emergencies
+In the event of an emergency, PS 192 follows NYC DOE procedures. Parents will be notified immediately if necessary. It is essential to keep all contact information current with the school office.
+
+* School Culture and Traditions
+PS 192 has several beloved traditions that help foster a sense of community and school spirit. These include:
+
+- **Town Meetings**: Weekly assemblies where students and staff come together to celebrate achievements and discuss school-wide topics.
+- **Family Breakfasts**: Held twice a year, families join their children in the classroom for a morning of food, activities, and performances.
+- **Moving Up Ceremony**: At the end of the year, we celebrate our students as they transition to the next grade.
+
+* Appendix
+** Attendance Policy
+Regular attendance is essential for academic success. Students must maintain a minimum attendance rate of 90%. Absences due to illness or family emergencies must be communicated to the school office.
+
+** Bussing and Transportation
+PS 192 offers bussing for eligible students. Please contact the Parent Coordinator for more information about transportation options.
+
+** Volunteer Guidelines
+Parents are welcome to volunteer in classrooms, field trips, and school events. All volunteers must complete a background check and provide proof of vaccination.
+
+** School Supplies
+PS 192 provides most school supplies. Students are asked to bring a backpack, water bottle, and any personal items as needed.
