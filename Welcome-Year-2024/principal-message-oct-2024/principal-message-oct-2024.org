@@ -1,0 +1,112 @@
+#+TITLE: School Year 2024-25 | Principal Message October 2024
+#+AUTHOR: Hilduara Abreu
+#+EMAIL: ps192@ps192.org
+#+DATE: 2024-10-01
+#+LaTeX_CLASS_OPTIONS: [letterpaper, 12pt]
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil num:nil
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{helvet}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER: \renewcommand{\footrulewidth}{0pt}
+#+LATEX_HEADER: \setlength{\parindent}{0em}
+#+LATEX_HEADER: \setlength{\parskip}{1em}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \usepackage {color}
+#+LATEX_HEADER: \usepackage {tabularray}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:     colorlinks=true,
+#+LATEX_HEADER:     linkcolor=blue,
+#+LATEX_HEADER:     filecolor=magenta,
+#+LATEX_HEADER:     urlcolor=cyan,
+#+LATEX_HEADER:     citecolor=green,
+#+LATEX_HEADER:     pdfborder={0 0 0}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \usepackage[most]{tcolorbox}
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\newpage
+#+END_EXPORT
+\vspace*{-0.5cm}
+*Subject: Welcome to October, 2024 at PS 192: The School of Joyful Learning*!
+
+Dear Parents and Guardians,
+
+Welcome to the PS 192 family, the School of Joyful Learning! We are delighted to have your child join us, and we are pleased to see them settling in well as we begin the new academic year. At PS 192, we deeply value our families and recognize the importance of a strong home-school partnership in supporting our students' growth.
+
+We would like to invite you to join us for "Coffee with the Principal." This gathering will be a wonderful opportunity for us to share key information about your child’s first term and further strengthen our community connection.
+
+Additionally, as we enter the month of October, I want to remind you that our teachers are available virtually every Tuesday from 2:30 p.m. to 3:35 p.m. This is a valuable opportunity to connect with your child’s teacher, gain insights into their progress, and discuss any questions you may have. We encourage you to keep the lines of communication open, as we are all working together to help your child succeed.
+
+We truly appreciate your ongoing support and participation in school activities and events.
+
+Together, we can ensure that your child’s educational journey is filled with positive experiences and growth.
+
+Happy October!
+
+With Justice, Honor, and Self-Discipline,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.2\textwidth]{hil_signature}
+#+END_EXPORT
+
+*Hilduara Abreu, Principal*
+
+*The school of Joyful Learning!*
+
+\href{www.ps192.org}{www.ps192.org}
+
+\newpage
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\newpage
+#+END_EXPORT
+\vspace*{-0.5cm}
+
+Asunto: ¡Bienvenidos a octubre de 2024 en PS 192: ¡La Escuela del Aprendizaje Alegre!
+
+Estimados padres y tutores,
+
+¡Bienvenidos a la familia de PS 192, la Escuela del Aprendizaje Alegre! Estamos encantados de que su hijo se haya unido a nosotros y nos alegra verlos adaptándose bien al comenzar el nuevo año académico. En PS 192, valoramos profundamente a nuestras familias y reconocemos la importancia de una fuerte colaboración entre el hogar y la escuela para apoyar el crecimiento de nuestros estudiantes.
+
+Nos gustaría invitarlos a acompañarnos en "Café con la directora". Esta reunión será una maravillosa oportunidad para compartir información clave sobre el primer trimestre de su hijo y fortalecer aún más nuestra conexión comunitaria.
+
+Además, al entrar en el mes de octubre, quiero recordarles que nuestros maestros están disponibles virtualmente todos los martes de 2:30 p.m. a 3:35 p.m. Esta es una valiosa oportunidad para conectarse con el maestro de su hijo, conocer más sobre su progreso y discutir cualquier duda que puedan tener. Les animamos a mantener las líneas de comunicación abiertas, ya que todos estamos trabajando juntos para ayudar a su hijo a tener éxito.
+
+Apreciamos sinceramente su apoyo continuo y participación en las actividades y eventos escolares.
+
+Juntos, podemos asegurar que el viaje educativo de su hijo esté lleno de experiencias positivas y crecimiento.
+
+¡Feliz octubre!
+
+Con justicia, honor y autodisciplina,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.2\textwidth]{hil_signature}
+#+END_EXPORT
+
+*Hilduara Abreu, Principal*
+
+*The school of Joyful Learning!*
+
+\href{www.ps192.org}{www.ps192.org}
