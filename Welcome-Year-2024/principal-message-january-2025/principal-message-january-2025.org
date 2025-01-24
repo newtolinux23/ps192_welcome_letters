@@ -40,7 +40,7 @@
 \begin{document}
 \newpage
 #+END_EXPORT
-\vspace*{-0.2cm}
+\vspace*{0.5cm}
 /*Subject: Welcome to January, 2025 at PS 192: The School of Joyful Learning!*/
 
 Dear PS192 Families,
@@ -68,7 +68,8 @@ Coffee with the Principal
    - Location: Library
 
 I look forward to seeing you at this month’s events and continuing our partnership to support student success.
-
+\newpage
+\vspace*{0.1cm}
 With Justice, Honor, and Self-Discipline,
 
 #+BEGIN_EXPORT latex
@@ -92,8 +93,7 @@ With Justice, Honor, and Self-Discipline,
 \begin{document}
 \newpage
 #+END_EXPORT
-\vspace*{-0.2cm}
-
+\vspace*{0.1cm}
 /*Asunto: Bienvenidos a enero de 2025 en PS 192: ¡La Escuela del Aprendizaje Alegre!*/
 
 *Estimados padres y tutores*,
@@ -121,6 +121,8 @@ Café con la Directora
    - Ubicación: Biblioteca
 
 Espero verlos en los eventos de este mes y continuar nuestra colaboración para apoyar el éxito de los estudiantes.
+\newpage
+\vspace*{0.5cm}
 
 Con justicia, honor y autodisciplina,
 
