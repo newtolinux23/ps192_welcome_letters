@@ -1,0 +1,114 @@
+#+TITLE: School Year 2024-25 | Principal Message January 2025
+#+AUTHOR: Hilduara Abreu
+#+EMAIL: ps192@ps192.org
+#+LaTeX_CLASS_OPTIONS: [letterpaper, 14pt]
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil title:nil num:nil
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usemintedstyle{manni}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage[top=1.4in, left=0.5in, right=0.5in, bottom=0.8in]{geometry}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{helvet}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER: \renewcommand{\footrulewidth}{0pt}
+#+LATEX_HEADER: \setlength{\parindent}{0em}
+#+LATEX_HEADER: \setlength{\parskip}{1em}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \usepackage {color}
+#+LATEX_HEADER: \usepackage {tabularray}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \hypersetup{
+#+LATEX_HEADER:     colorlinks=true,
+#+LATEX_HEADER:     linkcolor=blue,
+#+LATEX_HEADER:     filecolor=magenta,
+#+LATEX_HEADER:     urlcolor=cyan,
+#+LATEX_HEADER:     citecolor=green,
+#+LATEX_HEADER:     pdfborder={0 0 0}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \usepackage[most]{tcolorbox}
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\newpage
+#+END_EXPORT
+\vspace*{0.5cm}
+/*Subject: Welcome to March, 2025 at PS 192: The School of Joyful Learning!*/
+
+Dear PS192 Families,
+
+As we step into the month of March, I am excited to share the many events and activities happening this month:
+
+- **Virtual Parent-Teacher Conferences** – Thursday, March 6 (by appointment only)
+- **Parent Association Meeting** – Tuesday, March 11, at 8:00 a.m.
+- **Coffee with the Principal** – Friday, March 21, at 8:00 a.m.
+
+I cannot emphasize enough the importance of attending the Parent-Teacher Conferences. These meetings provide a valuable opportunity to gain insight into your child's academic progress. Education is a continuous journey filled with new challenges and growth. Keeping open communication with your child's teachers is essential in supporting their learning experience.
+
+Our dedicated teachers are always available to collaborate with you in finding effective ways to help your child succeed. I look forward to seeing you at the Parent-Teacher Conferences and throughout our school events this month.
+
+As always, your involvement and support in our school community are truly appreciated.
+
+**Wishing you a wonderful month of March!**
+
+With Justice, Honor, and Self-Discipline,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.2\textwidth]{hil_signature}
+#+END_EXPORT
+
+*Hilduara Abreu, Principal*
+
+*The School of Joyful Learning!*
+
+\href{www.ps192.org}{www.ps192.org}
+
+\newpage
+
+#+BEGIN_EXPORT latex
+\fancyfoot[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.8,-0.5){\includegraphics[width=8.8in,height=1.3in]{logo-1}}\end{picture}}
+\fancyhead[C]{\setlength{\unitlength}{1in}\begin{picture}(5,0)\put(-1.9,-0.5){\includegraphics[width=8.9in,height=1.3in]{logo-2}}\end{picture}}
+\fancyhead[R]{\thepage}
+\pagenumbering{gobble}
+
+\begin{document}
+\newpage
+#+END_EXPORT
+\vspace*{0.1cm}
+/*Asunto: Bienvenidos a marzo de 2025 en PS 192: ¡La Escuela del Aprendizaje Alegre!*/
+
+*Estimados padres y tutores*,
+
+A medida que damos la bienvenida al mes de marzo, me complace compartir con ustedes los eventos y actividades programados para este mes:
+
+- **Conferencias Virtuales de Padres y Maestros** – Jueves, 6 de marzo (solo con cita previa)
+- **Reunión de la Asociación de Padres** – Martes, 11 de marzo, a las 8:00 a.m.
+- **Café con la Directora** – Viernes, 21 de marzo, a las 8:00 a.m.
+
+Quiero resaltar la importancia de asistir a las Conferencias de Padres y Maestros. Estas reuniones brindan una oportunidad valiosa para conocer el progreso académico de su hijo/a. La educación es un proceso continuo lleno de desafíos y crecimiento, por lo que mantener una comunicación abierta con los maestros es fundamental para apoyar el aprendizaje de su hijo/a.
+
+Nuestros dedicados maestros están siempre disponibles para trabajar junto a usted y encontrar formas efectivas de ayudar a su hijo/a a alcanzar el éxito escolar. Espero verlos en las Conferencias de Padres y Maestros y en los eventos escolares de este mes.
+
+Como siempre, valoramos enormemente su apoyo y participación en nuestra comunidad escolar.
+
+**¡Les deseo un maravilloso mes de marzo!**
+
+Con justicia, honor y autodisciplina,
+
+#+BEGIN_EXPORT latex
+\includegraphics[width=0.2\textwidth]{hil_signature}
+#+END_EXPORT
+
+*Hilduara Abreu, Principal*
+
+La escuela del aprendizaje allegro!
+
+\href{www.ps192.org}{www.ps192.org}
