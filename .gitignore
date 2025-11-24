@@ -1,0 +1,19 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.brf
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+_minted*
+/auto/
+*.nav
+*.snm
+*.vrb
