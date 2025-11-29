@@ -1,0 +1,117 @@
+#+TITLE: PS192 School Letter
+#+AUTHOR: Ms. Hilduara Abreu
+#+DATE: \today
+#+OPTIONS: toc:nil num:nil ^:nil author:nil date:nil title:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+
+# --- LATEX PREAMBLE & STYLING ---
+#+BEGIN_EXPORT latex
+\usepackage{fontspec}
+\usepackage{tikz}
+\usepackage{xcolor}
+\definecolor{PS192Blue}{RGB}{0,51,102} % Adjusted to PS192 Blue
+\definecolor{PS192Gold}{RGB}{212,175,55} % Adjusted to PS192 Gold
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{eso-pic}
+\usepackage[base]{babel}
+\usepackage{geometry}
+\geometry{top=1.5in, bottom=1.2in, left=1in, right=1in}
+
+% --- FONTS ---
+% Uncomment if you have specific fonts, otherwise uses standard LaTeX fonts
+% \setmainfont{Times New Roman}
+
+% --- HEADER & FOOTER ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{1pt}
+\fancyfoot[C]{\small \color{gray} PS192 The School of Joyful Learning $\cdot$ District 6 $\cdot$ New York, NY}
+\fancyhead[R]{\small Page \thepage \ of \pageref{LastPage}}
+
+% --- BACKGROUND LOGO (OPTIONAL) ---
+% \newcommand{\watermark}[3]{\AddToShipoutPictureBG{
+% \parbox[b][\paperheight]{\paperwidth}{
+% \vfill
+% \centering
+% \begin{tikzpicture}
+% \node[opacity=.08] at (current page.center) {\includegraphics[width=0.5\textwidth]{ps192_logo.png}};
+% \end{tikzpicture}
+% \vfill}}}
+% \watermark{}{}{}
+
+% --- SENDER INFO DEFINITIONS ---
+\def\Who{Ms. Hilduara Abreu}
+\def\Role{Principal}
+\def\School{\textbf{\color{PS192Blue} PS192 The School of Joyful Learning}}
+\def\Address{500 West 138th Street}
+\def\CityZip{New York, NY 10031}
+\def\Email{\textbf{\color{PS192Blue}E-mail}: principal@ps192.org}
+\def\Phone{\textbf{\color{PS192Blue}Phone}: (212) 234-9607}
+\def\Website{\textbf{\color{PS192Blue}Web}: www.ps192.org}
+
+% --- LETTERHEAD LAYOUT ---
+\def\psletterhead{
+    \begin{tikzpicture}[remember picture,overlay]
+        % Logo Top Left (Placeholder if you have a file)
+        %\node[anchor=north west] at (current page.north west) [xshift=1in, yshift=-0.5in] {\includegraphics[width=2cm]{ps192_logo.png}};
+        
+        % Sender Info Top Right
+        \node[anchor=north east, text width=6cm, align=right] at (current page.north east) [xshift=-1in, yshift=-0.5in] {
+            \small
+            \School \\
+            \Who, \Role \\
+            \Address \\
+            \CityZip \\
+            \Phone \\
+            \Email \\
+            \Website
+        };
+        
+        % Decorative Line
+        \draw[color=PS192Gold, line width=1.5pt] ([yshift=-2in]current page.north west) -- ([yshift=-2in]current page.north east);
+    \end{tikzpicture}
+    \vspace{0.5in} % Push text down below header
+}
+#+END_EXPORT
+
+# --- LETTER CONTENT STARTS HERE ---
+
+#+BEGIN_EXPORT latex
+\psletterhead
+
+\vspace{1cm}
+
+Parent Name \\
+Address Line 1 \\
+City, State, Zip
+
+\vspace{1cm}
+
+Dear Families,
+#+END_EXPORT
+
+* A Season of Light, Reflection, and Joyful Learning
+
+As the calendar turns to December, the days grow shorter, and the air gets colder, but inside the halls of our school, the warmth is undeniable. It radiates from the smiles of our scholars, the dedication of our staff, and the incredible support of our parent community. This is a season of light, not just from holiday decorations, but from the brilliant potential I see in every child who walks through our doors.
+
+As we approach the end of 2025, it’s a natural time for reflection. When I look back at the first few months of this school year, my heart is full. I think of the student who struggled with a math concept in September but is now proudly explaining it to a classmate. I think of the friendships that have blossomed on the playground, bridging different backgrounds and cultures. I think of the parents who have taken time out of their busy days to volunteer, attend workshops, or simply share a kind word with a teacher. These are the moments that define us as the "School of Joyful Learning."
+
+December is also a time of anticipation. We look forward to the cherished traditions of the season, the precious time spent with loved ones, and the well-deserved rest that the winter break will bring. But we also look forward with excitement to what the new year holds. Our work is not yet finished. We have more mountains to climb, more curiosities to spark, and more dreams to nurture.
+
+My challenge to each of you this month is to find the light in every day. Celebrate the small victories. Encourage your children to be curious, to be kind, and to believe in their own unique abilities. Let them know that their voice matters and that they are an essential part of our beautiful PS192 mosaic.
+
+Let us finish this year strong, with the same spirit of unity and purpose with which we began. I am endlessly grateful for your partnership on this journey. May your homes be filled with love, laughter, and the enduring light of hope this holiday season.
+
+#+BEGIN_EXPORT latex
+\vspace{1cm}
+
+With deepest gratitude and warmest wishes,
+
+\vspace{1cm}
+
+%\signature{\includegraphics[scale=0.5]{signature.png} \\ Ms. Hilduara Abreu} % Uncomment for image signature
+Ms. Hilduara Abreu
+#+END_EXPORT
